@@ -1,0 +1,87 @@
+/* Utilidades responsive */
+
+/* Ocultar elementos en ciertos breakpoints */
+.hide-on-mobile {
+  display: none;
+}
+
+.hide-on-desktop {
+  display: block;
+}
+
+@media (min-width: 769px) {
+  .hide-on-mobile {
+    display: block;
+  }
+  
+  .hide-on-desktop {
+    display: none;
+  }
+}
+
+/* Padding responsive */
+.p-responsive {
+  padding: 1rem;
+}
+
+@media (min-width: 768px) {
+  .p-responsive {
+    padding: 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .p-responsive {
+    padding: 3rem;
+  }
+}
+
+/* Grid responsive */
+.grid-responsive {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+/* Texto responsive */
+.text-responsive {
+  font-size: 1rem;
+}
+
+@media (min-width: 768px) {
+  .text-responsive {
+    font-size: 1.1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .text-responsive {
+    font-size: 1.2rem;
+  }
+}
+
+/* Container responsive */
+.container-responsive {
+  width: 100%;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .container-responsive {
+    max-width: 750px;
+    padding: 0 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container-responsive {
+    max-width: 980px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container-responsive {
+    max-width: 1200px;
+  }
+}
