@@ -1,0 +1,5752 @@
+[
+    {
+      "cp": "50000",
+      "colonias": ["Toluca de Lerdo Centro"],
+      "estado": "Toluca",
+      "ciudad": "México"
+    },
+    {
+  "cp": "50010",
+  "colonias": [
+    "Celanese",
+    "Club Jardín",
+    "Guadalupe",
+    "La Cruz Comalco",
+    "La Magdalena",
+    "Los Girasoles",
+    "Los Girasoles II",
+    "Los Girasoles III",
+    "Los Girasoles IV",
+    "San Lorenzo Tepaltitlán Centro",
+    "Tlacopa",
+    "Universidad",
+    "Las Flores",
+    "San Angelín",
+    "Galaxias de San Lorenzo",
+    "El Tejocote",
+    "El Balcón",
+    "Los Girasoles I",
+    "San Juan de la Cruz",
+    "Hacienda San Agustín",
+    "La Loma",
+    "Del Panteón",
+    "Villas Tepaltitlán",
+    "Gran Morada"
+  ],
+  "estado": "México",
+  "ciudad": "Toluca"
+},
+{
+  "cp": "50016",
+  "colonias": ["Jardines de la Crespa", "Parque industrial San Antonio","De la Crespa"],
+  "estado": "México",
+  "ciudad": "Toluca"
+},
+{
+  "cp": "50017",
+  "colonias": ["Brisas","Rincón de San Lorenzo" ],
+  "estado": "México",
+  "ciudad": "Toluca"
+},
+{
+  "cp": "50020",
+  "colonias": ["Bosques de la Mora","Los Ángeles","Los Frailes","Rancho la Mora","Rinconada de la Mora", "Santiago Miltepec","3 Caminos","Valle de Santiago Residencial"],
+  "estado": "México",
+  "ciudad": "Toluca"
+},
+{
+  "cp": "50026",
+  "colonias": ["Carlos Hank González" ],
+  "estado": "México",
+  "ciudad": "Toluca"
+},
+{
+  "cp": "50040",
+  "colonias": ["La Retama","La Teresona","Unión","San Luis Obispo","San Miguel Apinahuizco","Sector Popular","Sor Juana Inés de la Cruz","Electricistas Locales"],
+  "estado": "México",
+  "ciudad": "Toluca"
+},
+{
+  "cp": "50050",
+  "colonias": ["El Cóporo","Santa Bárbara","Zopilocalco Sur","Zopilocalco Norte"],
+  "estado": "México",
+  "ciudad": "Toluca"
+},
+[
+  {
+    "cp": "50060",
+    "colonias": ["Doctores","Lomas Altas","Niños Héroes (Pensiones)","San Juan Buenavista","Huitzila"],
+    "estado": "México",
+    "ciudad": "Toluca"
+  }
+],
+[
+  {
+    "cp": "50070",
+    "colonias": ["Independencia","Meteoro","Villas Fontana I","Villas Fontana II","Fidel Velázquez","Reforma y Ferrocarriles Nacionales"],
+    "estado": "México",
+    "ciudad": "Toluca"
+  }
+],
+[
+  {
+    "cp": "50071",
+    "colonias": ["Toluca"],
+    "estado": "México",
+    "ciudad": "Toluca"
+  }
+],
+[
+  {
+    "cp": "50075",
+    "colonias": ["Las Torres", "Científicos" ],
+    "estado": "México",
+    "ciudad": "Toluca"
+  }
+],
+
+
+[
+ {
+    "cp": "50300",
+    "colonias": ["Villa de Acambay de Ruíz Castañeda Centro", "El Triángulo", "Peñasco de Dios"],
+    "estado": "México",
+    "ciudad": "Acambay de Ruíz Castañeda"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "50360",
+    "colonias": ["Aculco de Espinoza"],
+    "estado": "México",
+    "ciudad": "Aculco"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "50400",
+    "colonias": ["Temascalcingo de José María Velasco", "Del Calvario"],
+    "estado": "México",
+    "ciudad": "Temascalcingo"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "50450",
+    "colonias": ["Atlacomulco de Fabela Centro"],
+    "estado": "México",
+    "ciudad": "Atlacomulco"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "50500",
+    "colonias": ["San Andrés Timilpan"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "50550",
+    "colonias": ["San Bartolo Morelos"],
+    "estado": "México",
+    "ciudad": "Morelos"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "50600",
+    "colonias": ["El Oro de Hidalgo", "El Carmen", "San Rafael"],
+    "estado": "México",
+    "ciudad": "El Oro"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "50640",
+    "colonias": ["Fernando Orozco y Berra", "Héroes de la Independencia", "La Venta", "Las Huertas", "Progreso", "La Cabecera Concepción", "San Felipe del Progreso Centro", "Ejidal", "José María Morelos", "Las Colonias", "La Tenería"],
+    "estado": "México",
+    "ciudad": "San Felipe del Progreso"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "50600",
+    "colonias": ["San José del Rincón Centro", "San José del Rincón"],
+    "estado": "México",
+    "ciudad": "San José del Rincón"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "50680",
+    "colonias": ["Emilio Portes Gil"],
+    "estado": "México",
+    "ciudad": "San Felipe del Progreso"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "50700",
+    "colonias": ["Jocotitlán","San Juan","San Agustín","Santo Domingo"],
+    "estado": "México",
+    "ciudad": "Jocotitlán"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "50740",
+    "colonias": ["Ixtlahuaca de Rayón Centro","Sedue","San Francisco de Asís","PROFEDIX I", "PROFEDIX II", "La Concepción de los Baños", "Los Reyes", "San Pedro", "Magisterial"],
+    "estado": "México",
+    "ciudad": "Ixtlahuaca"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "50800",
+    "colonias": ["Jiquipilco"],
+    "estado": "México",
+    "ciudad": "Jiquipilco"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "50850",
+    "colonias": ["Temoaya", "Tlaltenango Abajo", "Tlaltenango Arriba"],
+    "estado": "México",
+    "ciudad": "Temoaya"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "50900",
+    "colonias": ["Almoloya de Juárez Centro", "Armando Bernal", "Ecológico SUTEYM", "Loma de Juárez", "El Plan de San Pedro", "San Pedro"],
+    "estado": "México",
+    "ciudad": "Almoloya de Juárez"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "50960",
+    "colonias": ["Rancho de los Padres Propiedad", "Villa Victoria"],
+    "estado": "México",
+    "ciudad": "Villa Victoria"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "51000",
+    "colonias": ["Cabecera de Indígenas", "San José Villa de Allende"],
+    "estado": "México",
+    "ciudad": "Villa de Allende"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51030",
+    "colonias": ["Cabecera de Indígenas Segundo Cuartel", "Cabecera de Indígenas Primer Cuartel", "Villa Donato Guerra", "San Agustín de las Palmas (San Agustín)"],
+    "estado": "México",
+    "ciudad": "Donato Guerra"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "51070",
+    "colonias": ["La Calzada","Ixtapan del Oro","San Martín Ocoxochitepec (San Martín)"],
+    "estado": "México",
+    "ciudad": "Ixtapan del Oro"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "51100",
+    "colonias": ["Santo Tomás de los Plátanos"],
+    "estado": "México",
+    "ciudad": "Santo Tomás"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51130",
+    "colonias": ["Otzoloapan"],
+    "estado": "México",
+    "ciudad": "Otzoloapan"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "51160",
+    "colonias": ["Alcantarilla", "Zacazonapan", "Juan Villafaña"],
+    "estado": "México",
+    "ciudad": "Zacazonapan"
+  }
+],
+[
+ {
+    "cp": "51163",
+    "colonias": ["Santa María"],
+    "estado": "México",
+    "ciudad": "Zacazonapan"
+  }
+],
+[
+ {
+    "cp": "51164",
+    "colonias": ["El Potrero"],
+    "estado": "México",
+    "ciudad": "Zacazonapan"
+  }
+],
+[
+ {
+    "cp": "51170",
+    "colonias": ["Arrastradero"],
+    "estado": "México",
+    "ciudad": "Zacazonapan"
+  }
+],
+[
+ {
+    "cp": "51173",
+    "colonias": ["La Cañada", "El Puerto"],
+    "estado": "México",
+    "ciudad": "Zacazonapan"
+  }
+],
+[
+ {
+    "cp": "51200",
+    "colonias": ["San Antonio","Manguito","Agua Fría","El Calvario","ISSEMYM","La Peña","Sánchez","Emiliano Zapata","Loma Bonita","La Capilla","Barranca Seca","De Guadalupe","Avándaro","Los Saucos","Valle de Bravo","Rincón Villa del Valle","Otumba","Santa María Ahuacatlan","Monte Alto"],
+    "estado": "México",
+    "ciudad": "Valle de Bravo"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51260",
+    "colonias": ["San Jerónimo Primera Sección (El Convento)","Amanalco de Becerra","San Jerónimo","San Juan"],
+    "estado": "México",
+    "ciudad": "Amanalco"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "51300",
+    "colonias": ["La Cascada (Barrio del Varal)","La Magdalena (La Magdalena)","San Francisco","Balveria","San Sebastián Carboneras (Carboneras)","Temascaltepec de González","Del Fortín","Milán","De Santiago","Del Temeroso","De Cantarranas","Carnicería"],
+    "estado": "México",
+    "ciudad": "Temascaltepec"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51350",
+    "colonias": ["San Miguel Zinacantepec Centro"],
+    "estado": "México",
+    "ciudad": "Zinacantepec"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "51400",
+    "colonias": ["Tejupilco de Hidalgo Centro","La Isla","Sánchez","Hidalgo","La Florida"],
+    "estado": "México",
+    "ciudad": "Tejupilco"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "51440",
+    "colonias": ["Luvianos","San Sebastián (Rincón de San Sebastián)","Rincón de Alambre","Niños Héroes"],
+    "estado": "México",
+    "ciudad": "Luvianos"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51470",
+    "colonias": ["San Simón de Guerrero","San Pedro (El Espinal)","Cruz Verde","San José (Barrio Tecolote)","La Fragua","Santa Cruz","Santa Rosa (La Gallinada)"],
+    "estado": "México",
+    "ciudad": "San Simón de Guerrero"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51500",
+    "colonias": ["Amatepec"],
+    "estado": "México",
+    "ciudad": "Amatepec"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51550",
+    "colonias": ["Tlatlaya"],
+    "estado": "México",
+    "ciudad": "Tlatlaya"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51600",
+    "colonias": ["Sultepec de Pedro Ascencio de Alquisiras"],
+    "estado": "México",
+    "ciudad": "Sultepec"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51670",
+    "colonias": ["Santa María","Texcaltitlán","San Miguel","Acatitlán"],
+    "estado": "México",
+    "ciudad": "Texcaltitlán"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "51700",
+    "colonias": ["Coatepec Harinas","Primera de San Miguel (La Punta)","Segunda de Analco (La Presa)"],
+    "estado": "México",
+    "ciudad": "Coatepec Harinas"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "51760",
+    "colonias": ["San Francisco","Villa Guerrero","15 de Mayo","Santa Cecilia"],
+    "estado": "México",
+    "ciudad": "Villa Guerrero"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "51800",
+    "colonias": ["Paraje el Cuetzillo","Zacualpan","Santiago","Los Zapotes (Barrio San José)","Tlapexco"],
+    "estado": "México",
+    "ciudad": "Zacualpan"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51860",
+    "colonias": ["Almoloya de Alquisiras","Jaltepec de Arriba","Cuarta Manzana","Cerro de Tlapexco (Segunda Manzana)"],
+    "estado": "México",
+    "ciudad": "Almoloya de Alquisiras"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "51900",
+    "colonias": ["Ixtapan de la Sal"],
+    "estado": "México",
+    "ciudad": "Ixtapan de la Sal"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "51950",
+    "colonias": ["Tonatico Centro","Santa María Norte","San Sebastián","San Gaspar","Santa María Sur","San Felipe","Portón de Sueño"],
+    "estado": "México",
+    "ciudad": "Tonatico"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "51980",
+    "colonias": ["Santa Ana","San Mateo","Zumpahuacan","San Juan","San Pedro Guadalupe","San Agustín","San Miguel","La Ascensión","La Cabecera"],
+    "estado": "México",
+    "ciudad": "Zumpahuacán"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52000",
+    "colonias": ["Lerma de Villada Centro"],
+    "estado": "México",
+    "ciudad": "Lerma"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "52060",
+    "colonias": ["Villas del Bosque","Xonacatlán","Adolfo López Mateos"],
+    "estado": "México",
+    "ciudad": "Xonacatlán"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "52080",
+    "colonias": ["Villa Cuauhtémoc"],
+    "estado": "México",
+    "ciudad": "Otzolotepec"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52100",
+    "colonias": ["San Mateo Atenco Centro"],
+    "estado": "México",
+    "ciudad": "San Mateo Atenco"
+  }
+],
+
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52140",
+    "colonias": ["Residencial Campestre Metepec",""],
+    "estado": "México",
+    "ciudad": "Metepec"
+  }
+],
+
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52180",
+    "colonias": ["San Mateo Mexicaltzingo Centro"],
+    "estado": "México",
+    "ciudad": "Mexicaltzingo"
+  }
+],
+[
+ {
+    "cp": "52182",
+    "colonias": ["San José","Tecuanapa"],
+    "estado": "México",
+    "ciudad": "Mexicaltzingo"
+  }
+],
+[
+ {
+    "cp": "52183",
+    "colonias": ["Azcapotzalco","El Calvario Tepanuaya"],
+    "estado": "México",
+    "ciudad": "Mexicaltzingo"
+  }
+],
+[
+ {
+    "cp": "52185",
+    "colonias": ["La Estación","Mazachulco"],
+    "estado": "México",
+    "ciudad": "Mexicaltzingo"
+  }
+],
+[
+ {
+    "cp": "52189",
+    "colonias": ["San Isidro"],
+    "estado": "México",
+    "ciudad": "Mexicaltzingo"
+  }
+],
+[
+ {
+    "cp": "52200",
+    "colonias": ["Calimaya de Díaz González","San Pedro - San Pablo","San Juan","Calimaya","San Martín"],
+    "estado": "México",
+    "ciudad": "Calimaya"
+  }
+],
+
+
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52240",
+    "colonias": ["Chapultepec","El Calvario"],
+    "estado": "México",
+    "ciudad": "Chapultepec"
+  }
+],
+[
+ {
+    "cp": "52243",
+    "colonias": ["Las Américas","Del Campesino"],
+    "estado": "México",
+    "ciudad": "Chapultepec"
+  }
+],
+[
+ {
+    "cp": "52244",
+    "colonias": ["Ejido de Chapultepec (Paraje las Viejitas)","Santa Teresa"],
+    "estado": "México",
+    "ciudad": "Chapultepec"
+  }
+],
+[
+ {
+    "cp": "52250",
+    "colonias": ["La Presa (Ejido de Chapultepec)","San Isidro"],
+    "estado": "México",
+    "ciudad": "Chapultepec"
+  }
+],
+[
+ {
+    "cp": "52254",
+    "colonias": ["Los Ciruelos (Rancho el Iris)","Vista Hermosa (Rancho el Huevito)"],
+    "estado": "México",
+    "ciudad": "Chapultepec"
+  }
+],
+[
+ {
+    "cp": "52280",
+    "colonias": ["Villas del Sauce","Parque Agroindustrial San Antonio la Isla","San Antonio la Isla","San Lucas Tepemajalco","Cuauhtémoc"],
+    "estado": "México",
+    "ciudad": "San Antonio la Isla"
+  }
+],
+[
+ {
+    "cp": "52282",
+    "colonias": ["Ex Rancho San Dimas"],
+    "estado": "México",
+    "ciudad": "San Antonio la Isla"
+  }
+],
+[
+ {
+    "cp": "52286",
+    "colonias": ["San Antonio"],
+    "estado": "México",
+    "ciudad": "San Antonio la Isla"
+  }
+],
+[
+ {
+    "cp": "52290",
+    "colonias": ["San Agustín"],
+    "estado": "México",
+    "ciudad": "San Antonio la Isla"
+  }
+],
+[
+ {
+    "cp": "52300",
+    "colonias": ["Tenango de Arista Centro","San Isidro","Tenango de Arista"],
+    "estado": "México",
+    "ciudad": "Tenango del Valle"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "52360",
+    "colonias": ["Santa María Rayón Centro"],
+    "estado": "México",
+    "ciudad": "Rayón"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52370",
+    "colonias": ["La Campana","Joquicingo","Cuarto Barrio","Tercer Barrio","Segundo Barrio"],
+    "estado": "México",
+    "ciudad": "Joquicingo"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52400",
+    "colonias": ["Tenancingo de Degollado Centro","ISSEMYM","San Pedrito","La Barranca"],
+    "estado": "México",
+    "ciudad": "Tenancingo"
+  }
+],
+
+
+
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52440",
+    "colonias": ["La Soledad","San Guillermo","San Martín","San Pedro","Santa María","Malinalco","Campos de San Martín","San Juan","Santa Mónica"],
+    "estado": "México",
+    "ciudad": "Malinalco"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52480",
+    "colonias": ["El Cerrito (El Calvario)","Ocuilán de Arteaga","Santa María (Tlacutapa)","San Sebastían"],
+    "estado": "México",
+    "ciudad": "Ocuilan"
+  }
+],
+
+
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52500",
+    "colonias": ["Libertad","El Palomar","Santa Cruz Atizapán","El Tepiolol"],
+    "estado": "México",
+    "ciudad": "Atizapán"
+  }
+],
+[
+ {
+    "cp": "52503",
+    "colonias": ["Magisterial"],
+    "estado": "México",
+    "ciudad": "Atizapán"
+  }
+],
+[
+ {
+    "cp": "52504",
+    "colonias": ["Llano Grande","Tepozoco"],
+    "estado": "México",
+    "ciudad": "Atizapán"
+  }
+],
+[
+ {
+    "cp": "52506",
+    "colonias": ["La Remolacha"],
+    "estado": "México",
+    "ciudad": "Atizapán"
+  }
+],
+[
+ {
+    "cp": "52540",
+    "colonias": ["Almoloya del Río","Loma Linda","Campesina-Emiliano Zapata"],
+    "estado": "México",
+    "ciudad": "Almoloya del Río"
+  }
+],
+[
+ {
+    "cp": "52542",
+    "colonias": ["La Puerta"],
+    "estado": "México",
+    "ciudad": "Almoloya del Río"
+  }
+],
+[
+ {
+    "cp": "52543",
+    "colonias": ["La Florida (El Jagüey)"],
+    "estado": "México",
+    "ciudad": "Almoloya del Río"
+  }
+],
+[
+ {
+    "cp": "52570",
+    "colonias": ["Mexicapan","San Mateo Texcalyacac","La Joya Maravillas"],
+    "estado": "México",
+    "ciudad": "Texcalyacac"
+  }
+],
+[
+ {
+    "cp": "52574",
+    "colonias": ["Las Maravillas"],
+    "estado": "México",
+    "ciudad": "Texcalyacac"
+  }
+],
+[
+ {
+    "cp": "52600",
+    "colonias": ["El Capulín","Santiago Tianguistenco de Galeana","Guadalupe Rhon de Hank","Izcalli","Parque industrial Santiago Tianguistenco","Cipreses","Jardines de Santiago","La Mora","San Cayetano","20 de Noviembre"],
+    "estado": "México",
+    "ciudad": "Tianguistenco"
+  }
+],
+[
+ {
+    "cp": "52680",
+    "colonias": ["Xalatlaco","San Agustín","San Bartolo","San Francisco","San Juan","Techichili"],
+    "estado": "México",
+    "ciudad": "Xalatlaco"
+  }
+],
+
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52700",
+    "colonias": ["Capulhuac de Mirafuentes Centro","San Juan Bautista"],
+    "estado": "México",
+    "ciudad": "Capulhuac"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52740",
+    "colonias": ["Centro Ocoyoacac","Santa María","San Miguel","Coapanoaya","Ejido la Campana"],
+    "estado": "México",
+    "ciudad": "Ocoyoacac"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "52760",
+    "colonias": ["El Cerrito","Huixquilucan de Degollado Centro","San Ramón","San Martín","San Melchor","San Juan Bautista","El Plan","San Miguel","El Retiro"],
+    "estado": "México",
+    "ciudad": "Huixquilucan"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "52900",
+    "colonias": ["Ciudad Adolfo López Mateos"],
+    "estado": "México",
+    "ciudad": "Atizapán de Zaragoza"
+  }
+],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "53000",
+    "colonias": ["San Bartolo Naucalpan (Naucalpan Centro)","Unidad Morelos"],
+    "estado": "México",
+    "ciudad": "Naucalpan de Juárez"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "54000",
+    "colonias": ["Tlalnepantla Centro","Alta Vista"],
+    "estado": "México",
+    "ciudad": "Tlalnepantla de Baz"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "54200",
+    "colonias": ["Polotitlán de la Ilustración"],
+    "estado": "México",
+    "ciudad": "Polotitlán"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "54240",
+    "colonias": ["Jilotepec de Molina Enríquez","La Cruz de Dendho"],
+    "estado": "México",
+    "ciudad": "Jilotepec"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "54280",
+    "colonias": ["El Progreso","El Ventorillo","La Providencia","Rancho Jesús María","San Francisco Soyaniquilpan","Loma del Perdón","El Atorón","El Chiquinte"],
+    "estado": "México",
+    "ciudad": "Soyaniquilpan de Juárez"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "54300",
+    "colonias": ["Villa del Carbón"],
+    "estado": "México",
+    "ciudad": "Villa del Carbón"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "54350",
+    "colonias": ["Chapa de Mota"],
+    "estado": "México",
+    "ciudad": "Chapa de Mota"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "54400",
+    "colonias": ["Benito Juárez 1a. Sección (Cabecera Municipal)"],
+    "estado": "México",
+    "ciudad": "Nicolás Romero"
+  }
+],
+
+
+
+
+
+
+
+
+[
+ {
+    "cp": "54480",
+    "colonias": ["Tlazala de Fabela","Tlazala"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54483",
+    "colonias": ["Laureles"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54484",
+    "colonias": ["Miraflores"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54485",
+    "colonias": ["La Palma"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54486",
+    "colonias": ["Aurora"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54487",
+    "colonias": ["Endeguido"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54488",
+    "colonias": ["Presa Iturbide"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54489",
+    "colonias": ["Las Palomas (Los Tachos)"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54490",
+    "colonias": ["Miraflores"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54493",
+    "colonias": ["Palma (Ejido San Francisco)"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54494",
+    "colonias": ["Los Jarros"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54495",
+    "colonias": ["Cañada de Onofres"],
+    "estado": "México",
+    "ciudad": "Isidro Fabela"
+  }
+],
+[
+ {
+    "cp": "54530",
+    "colonias": ["Guadalupe"],
+    "estado": "México",
+    "ciudad": "Nicolás Romero"
+  }
+],
+[
+ {
+    "cp": "54570",
+    "colonias": ["Espíritu Santo","San Luis Ayucan","Santa Ana Jilotzingo","Santa María Mazatla","Endonica","Ensido","Monfi","La Cuesta"],
+    "estado": "México",
+    "ciudad": "Jilotzingo"
+  }
+],
+[
+ {
+    "cp": "54571",
+    "colonias": ["San Miguel Tecpan"],
+    "estado": "México",
+    "ciudad": "Jilotzingo"
+  }
+],
+[
+ {
+    "cp": "54573",
+    "colonias": ["Doditay","Quishiguada"],
+    "estado": "México",
+    "ciudad": "Jilotzingo"
+  }
+],
+[
+ {
+    "cp": "54574",
+    "colonias": ["San José de las Manzanas"],
+    "estado": "México",
+    "ciudad": "Jilotzingo"
+  }
+],
+[
+ {
+    "cp": "54575",
+    "colonias": ["Dangú"],
+    "estado": "México",
+    "ciudad": "Jilotzingo"
+  }
+],
+[
+ {
+    "cp": "54600",
+    "colonias": ["San Mateo Xoloc","Tepotzotlán Centro","San Martín"],
+    "estado": "México",
+    "ciudad": "Tepotzotlán"
+  }
+],
+
+
+
+
+[
+ {
+    "cp": "54660",
+    "colonias": ["Coyotepec"],
+    "estado": "México",
+    "ciudad": "Coyotepec"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "54680",
+    "colonias": ["Huehuetoca"],
+    "estado": "México",
+    "ciudad": "Huehuetoca"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "54700",
+    "colonias": ["Cuautitlán Izcalli Centro Urbano","Elite Plaza"],
+    "estado": "México",
+    "ciudad": "Cuautitlán Izcalli"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "54770",
+    "colonias": ["Tlatilco","Tlatenco","Misiones Teoloyucan","Villas Teoloyucan","Hacienda Beatriz"],
+    "estado": "México",
+    "ciudad": "Teoloyucan"
+  }
+],
+
+
+
+
+
+[
+ {
+    "cp": "54800",
+    "colonias": ["Cuautitlán Centro","Los Morales 1a Sección","Paseo de Santa María","Romita","San Juan","El Nopalito","Misiones II"],
+    "estado": "México",
+    "ciudad": "Cuautitlán"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "54880",
+    "colonias": ["Rancho el Bañadero","Torresco","Melchor Ocampo Centro","San Isidro","San Antonio","Educación","Xacopinca","El Mirador"],
+    "estado": "México",
+    "ciudad": "Melchor Ocampo"
+  }
+],
+
+
+
+
+
+
+
+[
+ {
+    "cp": "54900",
+    "colonias": ["Belém","La Concepción","Los Reyes","Nativitas","San Bartolo","San Juan","Santiaguito","Tultitlán de Mariano Escobedo Centro","Residencial los Reyes","Rincón Colonial"],
+    "estado": "México",
+    "ciudad": "Tultitlán"
+  }
+],
+
+
+
+
+
+
+[
+ {
+    "cp": "54960",
+    "colonias": ["San Juan Xocotla","Tultepec Centro","San Rafael Ixtlahuaca","El Carmen"],
+    "estado": "México",
+    "ciudad": "Tultepec"
+  }
+],
+
+
+
+
+
+
+
+
+
+
+{
+  "cp": "55000",
+  "colonias": [
+    "San Cristóbal Centro",
+    "Ecatepec Centro",
+    "La Cruz de San Cristóbal"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55010",
+  "colonias": [
+    "Bonito Arboledas",
+    "Privada de Ecatepec",
+    "Los Lirios",
+    "Camino Nacional",
+    "Laureles Residencial",
+    "Guadalupe Victoria",
+    "Ampliación Guadalupe Victoria",
+    "Villa Esmeralda",
+    "Pozo de la Pila",
+    "El Progreso de Guadalupe Victoria",
+    "Rancho Victoria II",
+    "Barrio Nuevo Tultitlán",
+    "Rancho Victoria",
+    "El Obraje (Diamante)",
+    "Mathzi II",
+    "Mathzi I",
+    "El Diamante",
+    "Las Piedras",
+    "El Manchon",
+    "Bonito las Flores",
+    "Mathzi III"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55014",
+  "colonias": [
+    "Parque Residencial Coacalco"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55016",
+  "colonias": [
+    "La Joya",
+    "Tío Marin",
+    "Guadalupe Victoria",
+    "Tía Joaquina",
+    "Villas de la Joya",
+    "Torres de Altavista",
+    "Mesa de los Leones"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55017",
+  "colonias": [
+    "El Tejocote"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55018",
+  "colonias": [
+    "El Capulín",
+    "FOVISSSTE (José María Morelos y Pavón)",
+    "Granja el Rosal",
+    "Ecatepec 2000",
+    "San Carlos"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55020",
+  "colonias": [
+    "La Monera",
+    "Misión de los 40",
+    "Panitzin",
+    "Sergio Méndez Arceo",
+    "Boulevares de San Cristóbal",
+    "El Calvario",
+    "Boulevares la Nacional",
+    "Tierra Blanca",
+    "Ex-Hacienda Jauregui",
+    "La Monera (Unidad habitacional)",
+    "Magisterial 2000",
+    "10 de Abril",
+    "Bosques de San Javier",
+    "El Terremote",
+    "Martell",
+    "Bursaab",
+    "Plazas Ecatepec",
+    "Residencial San Cristóbal",
+    "Tierra Blanca Segunda Sección (Ejido Ecatepec)"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55023",
+  "colonias": [
+    "Los Héroes Ecatepec Sección I",
+    "Los Héroes Ecatepec Sección III",
+    "Los Héroes Ecatepec Sección II",
+    "Los Héroes Ecatepec Sección IV"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55024",
+  "colonias": [
+    "Ejidos de San Cristóbal",
+    "El Carmen",
+    "Ejidal Emiliano Zapata"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55025",
+  "colonias": [
+    "San Benjamin",
+    "Santa Águeda",
+    "Los Sauces",
+    "Galaxia Ecatepec",
+    "Ampliación el Carmen"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55027",
+  "colonias": [
+    "El Árbol",
+    "La Huerta"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55028",
+  "colonias": [
+    "Vista Hermosa"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55029",
+  "colonias": [
+    "Granjas Ecatepec 1a Sección",
+    "Granjas Ecatepec 2a Sección",
+    "Ehécatl (Paseos de Ecatepec)",
+    "Ejidos de San Andrés",
+    "San Francisco de Asís",
+    "Laguna del Rey",
+    "Luis Donaldo Colosio",
+    "Potrero de Rey",
+    "Abel Martínez Montañez",
+    "Playa Golondrinas",
+    "Golondrinas",
+    "Independencia"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55030",
+  "colonias": [
+    "Colinas de Ecatepec",
+    "Chula Vista",
+    "Doce de Diciembre",
+    "Tata Félix",
+    "Hogares Marla",
+    "Izcalli Ecatepec",
+    "Ampliación Izcalli Ecatepec Tata Félix",
+    "La Curiela",
+    "La Mora"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+[
+  {
+    "cp": "55036",
+    "colonias": ["La Panorámica"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55037",
+    "colonias": ["El Capulín"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55038",
+    "colonias": ["Floresta"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55039",
+    "colonias": ["La Palma II", "La Palma I"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  }
+],
+{
+  "cp": "55040",
+  "colonias": [
+    "Álamos de San Cristóbal",
+    "Boulevares Impala",
+    "Casas Coloniales Morelos",
+    "Fuentes de San Cristóbal",
+    "Hogares Mexicanos",
+    "Jardines de Ecatepec",
+    "La Propiedad",
+    "Renovación Jajalpa",
+    "San Juan Alcahuacan"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55050",
+  "colonias": [
+    "El Salado",
+    "La Pradera",
+    "Vivienda del Taxista",
+    "Adolfo Ruiz Cortines",
+    "Aquiles Serdán",
+    "Bosques de Ecatepec",
+    "Residencial Fuentes de Ecatepec",
+    "Gustavo Baz Prada",
+    "Izcalli Jardines",
+    "Nuevo Díaz Ordaz",
+    "San Martín de Porres",
+    "Rinconada San Martín",
+    "Hacienda Santa María",
+    "Ex Rancho Jajalpa",
+    "Rancho Jajalpa",
+    "Pirules de Villancico 2a Sección"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+[
+  {
+    "cp": "55055",
+    "colonias": [
+      "La Veleta",
+      "Jardines de los Báez 1a Sección",
+      "Jardines de los Báez 2a Sección",
+      "Jardines de los Báez 3a Sección",
+      "Llano de los Báez",
+      "Ampliación Llano de los Báez Sección Izcalli",
+      "Jubilados y Pensionados",
+      "El Sol de Ecatepec"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55056",
+    "colonias": [
+      "Villas de Ecatepec"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55059",
+    "colonias": [
+      "Pirules de Villancico 1a Sección"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  }
+],
+[
+  {
+    "cp": "55060",
+    "colonias": [
+      "Venta de Carpio",
+      "La Guadalupana",
+      "Los Héroes Ecatepec Sección V",
+      "Privadas de Ecatepec"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55063",
+    "colonias": [
+      "Ciudad Cuauhtémoc Sección Chiconautla 3000"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  }
+],
+[
+  {
+    "cp": "55064",
+    "colonias": [
+      "Ciudad Cuauhtémoc Sección Nopalera I y II",
+      "San Isidro Atlautenco",
+      "Ampliación San Isidro Atlautenco",
+      "San Isidro Atlautenco",
+      "Vistas de Ecatepec (Sección B)",
+      "La Venta (La Guadalupana)",
+      "Vistas de Ecatepec (Sección A)",
+      "Joyas de Atlautenco"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55065",
+    "colonias": [
+      "Santa Cruz Venta de Carpio"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  }
+],
+{
+  "cp": "55066",
+  "colonias": [
+    "El Potrero",
+    "Terremote",
+    "Pirules de Bayisco",
+    "Casas Reales",
+    "Las Brisas",
+    "Santa María Chiconautla",
+    "Santo Tomás Chiconautla",
+    "Zopilocalco",
+    "Bosques de Santo Tomás",
+    "Portal Chiconautla",
+    "Campo Santo",
+    "Los Ídolos",
+    "Jaime Salvador",
+    "La Cerca",
+    "La Preciosa",
+    "México Nuevo"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55067",
+  "colonias": [
+    "Ciudad Cuauhtémoc Sección Geo 2000",
+    "Ciudad Cuauhtémoc Sección Tepoztlaco",
+    "Ciudad Cuauhtémoc Sección Cuitlahuac",
+    "Ciudad Cuauhtémoc Sección Embajada",
+    "Ciudad Cuauhtémoc Sección Moctezuma",
+    "Ciudad Cuauhtémoc Sección Quetzalcoatl",
+    "Ciudad Cuauhtémoc Sección Tizoc",
+    "Ciudad Cuauhtémoc Sección Tonatiuh",
+    "Ciudad Cuauhtémoc Sección Xochiquetzal",
+    "Los Llanetes",
+    "Coyometla",
+    "Niños Héroes",
+    "Ciudad Cuauhtémoc Sección Tlaloc",
+    "La Fortaleza",
+    "Moneda de 100 Pesos",
+    "Tepetzingo el Chico",
+    "Ciudad Cuauhtémoc Sección Tepetzingo",
+    "C.T.M. Guadalupana",
+    "Tepopotla",
+    "El Hoyo del Tepetate"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55068",
+  "colonias": [
+    "Santo Tomás Chiconautla",
+    "El Hoyo",
+    "Ignacio Pichardo Pagaza",
+    "El Mirador"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55069",
+  "colonias": [
+    "La Preciosa",
+    "Los Pajaritos",
+    "La Garita",
+    "La Cerca"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55070",
+  "colonias": [
+    "Carlos Salinas de Gortari",
+    "Colonial Ecatepec",
+    "19 de Septiembre",
+    "Ampliación 19 de Septiembre",
+    "Plan de Arroyo",
+    "Jardines de Morelos Sección Cerros",
+    "Jardines de Morelos Sección Elementos",
+    "Jardines de Morelos Sección Flores",
+    "Jardines de Morelos Sección Fuentes",
+    "Jardines de Morelos Sección Islas",
+    "Jardines de Morelos Sección Bosques",
+    "Jardines de Morelos Sección Lagos",
+    "Jardines de Morelos Sección Montes",
+    "Jardines de Morelos Sección Playas",
+    "Jardines de Morelos Sección Ríos",
+    "Llanos de Morelos I",
+    "Villas del Sol",
+    "Llanos de Morelos II",
+    "Sol II",
+    "Julia Marin",
+    "Profopec (Polígonos VII)"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+{
+  "cp": "55074",
+  "colonias": [
+    "La Purísima",
+    "Mexicanos Unidos I",
+    "Playas de San Juan",
+    "Uprovi",
+    "Viento Nuevo",
+    "Los Alcatraces",
+    "Los Pinos",
+    "Ampliación 19 de Septiembre 1A Sección",
+    "Los Cordeles",
+    "Mexicanos Unidos II",
+    "Ejido de Atlautenco"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+
+  {
+    "cp": "55075",
+    "colonias": ["Jardines de Morelos 5a Sección"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55076",
+    "colonias": ["Las Américas"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55080",
+    "colonias": [
+      "Arboledas de San Carlos",
+      "Xochicuac I",
+      "El Bosque",
+      "Francisco Villa",
+      "Jesús Sánchez",
+      "Nuevo Laredo",
+      "Xochicuac II",
+      "Lomas de Ecatepec",
+      "Lomas de Atzolco",
+      "San Carlos"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55084",
+    "colonias": ["El Ranchito"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55085",
+    "colonias": ["Viveros Tulpetlac"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55087",
+    "colonias": ["Lomas de San Carlos Zona Comunal"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+
+  {
+    "cp": "55090",
+    "colonias": [
+      "El Potrero",
+      "El Arbolito Jajalpa",
+      "El Jaguey",
+      "San José Jajalpa",
+      "Jajalpa",
+      "Las Palmas Ecatepec",
+      "Los Laureles",
+      "Obrera Jajalpa",
+      "Jajalpa Olímpica",
+      "Río Piedras",
+      "Bonito Ecatepec",
+      "El Pocito",
+      "Ecatepec 40 Casas"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55094",
+    "colonias": ["Villas Jajalpa"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55095",
+    "colonias": ["Jajalpa"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos",
+    "tipo": "Zona industrial"
+  },
+  {
+    "cp": "55100",
+    "colonias": [
+      "Jardines de Cerro Gordo",
+      "Los Reyes Ecatepec",
+      "Río de Luz",
+      "Industrias Ecatepec",
+      "Tulpetlac",
+      "Francisco I. Madero",
+      "Villas 1o de Agosto",
+      "Pro Revolución",
+      "Viviendas Venta de Carpio",
+      "Primero de Mayo",
+      "Patrimonio Social",
+      "Villa 1o de Mayo"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55104",
+    "colonias": ["Granjas Populares Guadalupe Tulpetlac"],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55105",
+    "colonias": [
+      "El Paraíso",
+      "Ignacio L. Vallarta"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55107",
+    "colonias": [
+      "Industrias Tulpetlac"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55114",
+    "colonias": [
+      "Tolotzin I"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55115",
+    "colonias": [
+      "José María Morelos y Pavón Sagitario X"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55117",
+    "colonias": [
+      "Josefa Ortiz de Domínguez Sagitario VII"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55118",
+    "colonias": [
+      "Alfredo del Mazo",
+      "Progreso de la Unión",
+      "Joyas de Ecatepec",
+      "Colonos de México (Alfredo Torres Martínez)",
+      "Juan de la Barrera",
+      "Ampliación Joyas de Ecatepec",
+      "Sosa Ecatepec",
+      "Cuchilla de la Draga"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55119",
+    "colonias": [
+      "El Dique",
+      "Potrero Chico",
+      "Valle de Ecatepec Estado de México CTM XIII"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55120",
+    "colonias": [
+      "Ciudad Azteca Sección Poniente",
+      "Ciudad Azteca Sección Oriente"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55125",
+    "colonias": [
+      "Aldeas de Aragón I",
+      "Aldeas de Aragón II"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55126",
+    "colonias": [
+      "Profopec (Polígono I)"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55127",
+    "colonias": [
+      "Profopec IV (Polígono IV El Cegor)"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55128",
+    "colonias": [
+      "José Antonio Torres"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55129",
+    "colonias": [
+      "La Florida (Ciudad Azteca)",
+      "Josefa Ortiz de Domínguez"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+{
+  "cp": "55130",
+  "colonias": [
+    "Nuevo Paseo de San Agustín",
+    "Nuevo Paseo de San Agustín 2a Secc",
+    "Nuevo Paseo de San Agustín 3a Sección",
+    "Olímpica 68 I",
+    "Plaza de Santa Clara",
+    "Vicente Coss Ramírez",
+    "Ciudad y Puerto",
+    "Nuevo Paseo San Agustín 3a B"
+  ],
+  "estado": "México",
+  "ciudad": "Ecatepec de Morelos"
+},
+  {
+    "cp": "55135",
+    "colonias": [
+      "Laderas del Peñón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55137",
+    "colonias": [
+      "INDECO Santa Clara (Campiñas de Aragón)"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55138",
+    "colonias": [
+      "Valle de Santiago"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55139",
+    "colonias": [
+      "Campiñas de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55140",
+    "colonias": [
+      "Jardines de Aragón",
+      "Rinconada de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55146",
+    "colonias": [
+      "Tolotzin II"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55147",
+    "colonias": [
+      "Los Álamos"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55148",
+    "colonias": [
+      "Villas de Aragón",
+      "Alborada de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55149",
+    "colonias": [
+      "Ignacio Allende"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55158",
+    "colonias": [
+      "Profopec (Polígono II)"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55170",
+    "colonias": [
+      "Central Michoacana",
+      "16 de Septiembre",
+      "Sagitario IV"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55176",
+    "colonias": [
+      "Profopec (Polígono V)"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55180",
+    "colonias": [
+      "México Colonial II"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55187",
+    "colonias": [
+      "Profopec (Polígono III)"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55188",
+    "colonias": [
+      "México Colonial I"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55189",
+    "colonias": [
+      "Novela Mexicana I"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55190",
+    "colonias": [
+      "Lázaro Cárdenas V Zona"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55200",
+    "colonias": [
+      "División del Norte",
+      "Emiliano Zapata 1a Sección",
+      "Gustavo Díaz Ordaz",
+      "Granjas Valle de Guadalupe Sección B"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55210",
+    "colonias": [
+      "La Estrella",
+      "La Popular",
+      "Valle de Anáhuac Sección A"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55218",
+    "colonias": [
+      "Cuchilla A. Rosales"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55220",
+    "colonias": [
+      "Jardines de San Gabriel",
+      "Jardines del Tepeyac",
+      "Vicente Guerrero",
+      "Emiliano Zapata 1a Sección A"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55230",
+    "colonias": [
+      "La Media Luna"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55234",
+    "colonias": [
+      "La Glorieta"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55235",
+    "colonias": [
+      "Unidad Obrero CTM XIV"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55236",
+    "colonias": [
+      "Códice Mendocino II",
+      "Códice Mendocino I",
+      "Sagitario V",
+      "Ampliación Códice Mendocino"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55237",
+    "colonias": [
+      "Estrella de Oriente"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55238",
+    "colonias": [
+      "Ejercito del Trabajo II",
+      "Izcalli Santa Clara",
+      "Sagitario I",
+      "Felipe Ángeles (Antes Sagitario II)",
+      "Sagitario III"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55240",
+    "colonias": [
+      "Alborada",
+      "La Florida",
+      "Melchor Muzquiz"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55242",
+    "colonias": [
+      "Villas Cosmos"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55243",
+    "colonias": [
+      "Haciendas de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55236",
+    "colonias": [
+      "Códice Mendocino II",
+      "Códice Mendocino I",
+      "Sagitario V",
+      "Ampliación Códice Mendocino"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55237",
+    "colonias": [
+      "Estrella de Oriente"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55238",
+    "colonias": [
+      "Ejercito del Trabajo II",
+      "Izcalli Santa Clara",
+      "Sagitario I",
+      "Felipe Ángeles (Antes Sagitario II)",
+      "Sagitario III"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55240",
+    "colonias": [
+      "Alborada",
+      "La Florida",
+      "Melchor Muzquiz"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55242",
+    "colonias": [
+      "Villas Cosmos"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55243",
+    "colonias": [
+      "Haciendas de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55244",
+    "colonias": [
+      "Parques de Aragón",
+      "Paseos de Aragón",
+      "Castillos de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55245",
+    "colonias": [
+      "México Independiente"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55246",
+    "colonias": [
+      "Petroquímica Ecatepec"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55247",
+    "colonias": [
+      "Ciudad Oriente",
+      "CROC Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55248",
+    "colonias": [
+      "Fuentes de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55249",
+    "colonias": [
+      "Ecatepec Federación (Mártires de Río Blanco)",
+      "Poesía Mexicana"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55260",
+    "colonias": [
+      "Nueva Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55264",
+    "colonias": [
+      "Prizo I",
+      "Prizo II",
+      "Fernando de Alba Nezahualpilli",
+      "Prizo III"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55266",
+    "colonias": [
+      "México Insurgente",
+      "México Revolucionario"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55267",
+    "colonias": [
+      "Ciudad Amanecer",
+      "Quinto Sol",
+      "Sauces V",
+      "Sauces II"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55268",
+    "colonias": [
+      "Sauces VI",
+      "Sauces Coalición",
+      "Novela Mexicana II"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55269",
+    "colonias": [
+      "Sauces I",
+      "México Prehispánico I",
+      "México Prehispánico II",
+      "Sauces P.R.I."
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55270",
+    "colonias": [
+      "Emiliano Zapata 2a Secc",
+      "El Chamizal",
+      "Granjas Valle de Guadalupe Sección A",
+      "Granjas Valle de Guadalupe Sección C"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55280",
+    "colonias": [
+      "Renacimiento de Aragón",
+      "Valle de Aragón 3ra. Sección Oriente",
+      "Ampliación Valle de Aragón Sección A",
+      "Valle de Aragón 3ra. Sección Poniente",
+      "Nuevo Valle de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55284",
+    "colonias": [
+      "Renacimiento Chico"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55287",
+    "colonias": [
+      "Fernando Alba Ixtlaxóchitl"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55288",
+    "colonias": [
+      "Nezahualpilli"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55289",
+    "colonias": [
+      "Bugambilias de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55290",
+    "colonias": [
+      "Arboledas de Aragón",
+      "Granjas Independencia",
+      "Granjas Independencia Sección A",
+      "Granjas Independencia Sección B",
+      "Granjas Independencia Sección C",
+      "Solidaridad 90 (Mártires de Río Blanco)"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55294",
+    "colonias": [
+      "Av. Central CROC"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55295",
+    "colonias": [
+      "Licenciado Pedro Ojeda Paullada",
+      "Ampliación Pedro Ojeda Paullada",
+      "Ampliación Nicolás Bravo",
+      "Franja Valle de Guadalupe"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55296",
+    "colonias": [
+      "Nicolás Bravo",
+      "A.S.A.",
+      "Las Flores de Aragón"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55297",
+    "colonias": [
+      "Héroes de Granaditas"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55298",
+    "colonias": [
+      "Ejercito del Trabajo III"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55299",
+    "colonias": [
+      "Ejercito del Trabajo I"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55300",
+    "colonias": [
+      "Piedra Grande"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55308",
+    "colonias": [
+      "Benito Juárez Xalostoc Norte",
+      "Benito Juárez La Mesa"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55310",
+    "colonias": [
+      "Cuauhtémoc Xalostoc",
+      "San Pedro Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55316",
+    "colonias": [
+      "Ampliación San Pedro Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55317",
+    "colonias": [
+      "El Arbolito Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55320",
+    "colonias": [
+      "El Cardonal Xalostoc",
+      "El Nardo",
+      "Esfuerzo Nacional",
+      "Santa María Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55330",
+    "colonias": [
+      "Tolotzin V",
+      "5 de Septiembre",
+      "Jardines de Xalostoc",
+      "Las Vegas Xalostoc",
+      "San Francisco Xalostoc",
+      "Ampliación San Francisco Xalostoc",
+      "Prados de Xalostoc",
+      "La Laguna 21"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55338",
+    "colonias": [
+      "Melchor Ocampo"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55339",
+    "colonias": [
+      "Villas de Guadalupe Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55340",
+    "colonias": [
+      "Benito Juárez Xalostoc",
+      "Rustica Xalostoc",
+      "Viveros de Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55347",
+    "colonias": [
+      "Ampliación San José Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55348",
+    "colonias": [
+      "Parque Industrial Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55349",
+    "colonias": [
+      "Urbana Ixhuatepec"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55360",
+    "colonias": [
+      "El Salado",
+      "San José Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55369",
+    "colonias": [
+      "Ampliación San Miguel Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55390",
+    "colonias": [
+      "Altavilla",
+      "San Miguel Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55400",
+    "colonias": [
+      "Santa María Tulpetlac",
+      "Aldeas I",
+      "Aldeas II",
+      "Nieves",
+      "ISSEMYM"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55404",
+    "colonias": [
+      "Ejido de Santa María Tulpetlac",
+      "Ecatepec las Fuentes",
+      "El Charco",
+      "El Chamizalito",
+      "El Charco II"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55405",
+    "colonias": [
+      "La Purísima"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55407",
+    "colonias": [
+      "Talleres Gráficos",
+      "Cuchilla Lázaro Cárdenas"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55410",
+    "colonias": [
+      "Tecuescomac",
+      "Lomas de San Carlos Cantera",
+      "El Ostor"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55414",
+    "colonias": [
+      "Xochitenco",
+      "El Parque",
+      "Nueva Rufino Tamayo",
+      "Tepetlac Texalpa",
+      "La Nopalera 2a. Sección Tulpetlac",
+      "Lomas Verdes Tlaljuyaca",
+      "Margarita Maza de Juárez"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55415",
+    "colonias": [
+      "Buenos Aires",
+      "El Rosal",
+      "Mexihuiloya",
+      "El Almarcigo Norte",
+      "El Almarcigo Sur",
+      "Ampliación Almarcigo"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55416",
+    "colonias": [
+      "Texalpa",
+      "Benito Juárez 1ra. Sección",
+      "Benito Juárez 2da. Sección",
+      "Benito Juárez 3ra. Sección",
+      "La Virgen",
+      "Progreso Tlajoyuca"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55417",
+    "colonias": [
+      "Guadalupe Coatzochico"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55418",
+    "colonias": [
+      "Mexicalco I",
+      "Rufino Tamayo",
+      "Ampliación Santa María Tulpetlac",
+      "Cuauhtémoc",
+      "El Callejón",
+      "Progreso Chico Tulpetlac",
+      "Villas Tulpetlac",
+      "Mexicalco II y IV",
+      "Mexicalco III"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55419",
+    "colonias": [
+      "Tlatempa",
+      "El Cortijo"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55420",
+    "colonias": [
+      "Cerro Gordo"
+    ],
+    "zona": "industrial",
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55425",
+    "colonias": [
+      "Cerro Gordo"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55429",
+    "colonias": [
+      "Bellavista",
+      "Tepetzicasco",
+      "La Cuesta Santa Clara"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55430",
+    "colonias": [
+      "José María Pino Suárez",
+      "Jardines de Casa Nueva",
+      "Conjunto Ejecutivo",
+      "Junta de San Juan"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55450",
+    "colonias": [
+      "Jardines de Santa Clara",
+      "Prados de Santa Clara"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55458",
+    "colonias": [
+      "Conjunto Guanajuato"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55459",
+    "colonias": [
+      "América Santa Clara"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55490",
+    "colonias": [
+      "Faja de Oro",
+      "Miguel Hidalgo",
+      "Finca San Miguel"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55498",
+    "colonias": [
+      "Héroes de la Independencia"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55500",
+    "colonias": [
+      "Conjunto Tepeyac Hidalgo"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55506",
+    "colonias": [
+      "Buenavista"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55507",
+    "colonias": [
+      "La Palma"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55508",
+    "colonias": [
+      "Ampliación Coanalco",
+      "Coanalco Buenavista"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55509",
+    "colonias": [
+      "La Presa",
+      "Plan de Ayala"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55510",
+    "colonias": [
+      "Tablas del Pozo",
+      "Tepeolulco",
+      "El Pozo"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55515",
+    "colonias": [
+      "Los Bordos",
+      "La Teja"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55516",
+    "colonias": [
+      "Boca Barranca"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55517",
+    "colonias": [
+      "El Mirador"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55518",
+    "colonias": [
+      "La Agüita",
+      "La Lomita",
+      "Arboledas de Xalostoc"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55519",
+    "colonias": [
+      "San Andrés de la Cañada",
+      "La Esperanza"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55520",
+    "colonias": [
+      "Carlos Hank González"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55530",
+    "colonias": [
+      "El Gallito",
+      "San Jaco (El Gallito)",
+      "Santa Clara",
+      "El Gallito"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55540",
+    "colonias": [
+      "Santa Clara Coatitla",
+      "Real de Santa Clara",
+      "Rinconada de Santa Clara"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55547",
+    "colonias": [
+      "Santa Clara"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55548",
+    "colonias": [
+      "Área Zapotecas",
+      "Cantera Guadalupana",
+      "Dos de Octubre"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55549",
+    "colonias": [
+      "Área Santa Cruz"
+    ],
+    "estado": "México",
+    "ciudad": "Ecatepec de Morelos"
+  },
+  {
+    "cp": "55600",
+    "colonias": [
+      "Paseos de la Laguna",
+      "Zumpango",
+      "Santiago 1ra. Sección",
+      "San Sebastián",
+      "Independencia",
+      "San Juan",
+      "Santa Rosa",
+      "Del Bosque",
+      "San Miguel",
+      "Magisterial",
+      "Santiago 2da. Sección",
+      "San Miguel (Camino a Bata)"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55604",
+    "colonias": [
+      "San Lorenzo",
+      "Hombres Ilustres",
+      "Portales de San Juan",
+      "Unidad Familiar C.T.C. de Jaltenco",
+      "San Miguel (Camino a Valle Hermoso)"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55605",
+    "colonias": [
+      "Santa María el Llano",
+      "San Antonio de las Arenas",
+      "CTC de Zumpango (Santa María)"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55606",
+    "colonias": [
+      "Santa María",
+      "San Marcos",
+      "Pueblo Nuevo de San Pedro",
+      "San Marcos del Llano"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55607",
+    "colonias": [
+      "Paseos del Lago II",
+      "Jardines del Lago",
+      "Primero de Mayo",
+      "Villas 2000",
+      "FOVISSSTE",
+      "Paseos del Lago",
+      "Nuevo Paseos de San Juan"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55609",
+    "colonias": [
+      "San Pedro de la Laguna"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55610",
+    "colonias": [
+      "Santa María Cuevas",
+      "El Rincón",
+      "España (Cuevas)"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55613",
+    "colonias": [
+      "Loma Larga (Barrio de Loma Larga)"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55614",
+    "colonias": [
+      "Villas de Zumpango",
+      "Jardines de la Laguna",
+      "Solares",
+      "Jardines de Girasoles",
+      "Nuevo Zumpango",
+      "Valle de los Lirios",
+      "Santa María",
+      "Villas de la Laguna",
+      "La Trinidad",
+      "El Nido",
+      "Los Romeros"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55619",
+    "colonias": [
+      "San Miguel Bocanegra"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55620",
+    "colonias": [
+      "El Colorado",
+      "La Soledad",
+      "San José de la Loma"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55627",
+    "colonias": [
+      "El Potrero"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55628",
+    "colonias": [
+      "Santa María de Guadalupe",
+      "San Pedro (Zitlaltepec)",
+      "San Miguel (Zitlaltepec)",
+      "Santa María (Zitlaltepec)",
+      "San Lorenzo (Zitlaltepec)"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55629",
+    "colonias": [
+      "Lázaro Cárdenas"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55630",
+    "colonias": [
+      "Jardines de Acacias",
+      "San Bartolo Cuautlalpan",
+      "Los Alcanfores",
+      "San Juan de Guadalupe",
+      "La Esmeralda",
+      "Ex Hacienda de Guadalupe",
+      "Santa Fe",
+      "Olmos",
+      "El Solar",
+      "Ampliación Jardines de San Bartolo",
+      "Miltenco"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55634",
+    "colonias": [
+      "Paseos de San Juan",
+      "Santa Lucía"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55635",
+    "colonias": [
+      "Jardines de Magnolias",
+      "Jardines de Castalias",
+      "Ejido San Bartolo",
+      "Buenavista",
+      "Los Hornos",
+      "Arbolada los Sauces",
+      "Las Plazas",
+      "Hacienda los Encinos",
+      "Santa Isabel",
+      "Letigio"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55636",
+    "colonias": [
+      "Los Rivero",
+      "Pueblo Nuevo de Morelos"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55637",
+    "colonias": [
+      "La Noria",
+      "Santa Cecilia"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55640",
+    "colonias": [
+      "Santa Lucia Base Aérea Militar"
+    ],
+    "estado": "México",
+    "ciudad": "Zumpango"
+  },
+  {
+    "cp": "55650",
+    "colonias": [
+      "Adolfo López Mateos",
+      "San Miguel",
+      "Tequixquiac Centro",
+      "Ex-Hacienda San Sebastián"
+    ],
+    "estado": "México",
+    "ciudad": "Tequixquiac"
+  },
+  {
+    "cp": "55653",
+    "colonias": [
+      "Tlapanaloya",
+      "La Rinconada",
+      "Monte Alto",
+      "La Esperanza"
+    ],
+    "estado": "México",
+    "ciudad": "Tequixquiac"
+  },
+  {
+    "cp": "55654",
+    "colonias": [
+      "San José",
+      "El Crucero",
+      "La Heredad"
+    ],
+    "estado": "México",
+    "ciudad": "Tequixquiac"
+  },
+  {
+    "cp": "55655",
+    "colonias": [
+      "El Refugio",
+      "Palo Grande"
+    ],
+    "estado": "México",
+    "ciudad": "Tequixquiac"
+  },
+  {
+    "cp": "55656",
+    "colonias": [
+      "Ejidal General Wenceslao Labra"
+    ],
+    "estado": "México",
+    "ciudad": "Tequixquiac"
+  },
+  {
+    "cp": "55657",
+    "colonias": [
+      "San Mateo",
+      "El Cenicero"
+    ],
+    "estado": "México",
+    "ciudad": "Tequixquiac"
+  },
+  {
+    "cp": "55660",
+    "colonias": ["Apaxco de Ocampo","Arboledas","23 de Noviembre","Olímpica"],
+    "estado": "México",
+    "ciudad": "Apaxco"
+  },
+
+
+
+
+
+
+
+
+  {
+    "cp": "55670",
+    "colonias": ["Roma","Centenario","España","Huicalco","Hueypoxtla","Juárez"],
+    "estado": "México",
+    "ciudad": "Hueypoxtla"
+  },
+
+
+
+
+
+
+  {
+    "cp": "55700",
+    "colonias": ["Residencial Paraíso I"],
+    "estado": "México",
+    "ciudad": "Coacalco de Berriozábal"
+  },
+
+
+
+
+
+
+
+
+
+{
+ 
+  "cp": "55740",
+  "colonias": [
+    "Ejido Santa Ana",
+    "Tecámac de Felipe Villanueva Centro",
+    "El Calvario",
+    "Galaxias el Llano"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+}, {
+  "cp": "55743",
+  "colonias": [
+    "Real Granada",
+    "Isidro Fabela",
+    "Rancho la Luz",
+    "La Palma",
+    "Hacienda del Bosque",
+    "San Nicolás la Redonda"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55744",
+  "colonias": [
+    "San Pedro Potzohuacan"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55745",
+  "colonias": [
+    "Real Granada IV",
+    "Reserva Castilla",
+    "San Jerónimo Xonacahuacan",
+    "Ampliación San Jerónimo",
+    "Nuevo México",
+    "Jardines de Xonacahuacan"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55746",
+  "colonias": [
+    "Ex Hacienda San Miguel Tenopala",
+    "Rancho la Capilla",
+    "Real Belmonte",
+    "Club de Polo (Rancho Azul)",
+    "Santa Cruz Tecámac"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55747",
+  "colonias": [
+    "San Pablo Tecalco",
+    "San Isidro Citlalcóatl"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55748",
+  "colonias": [
+    "Jema",
+    "San José",
+    "San Martín Azcatepec",
+    "San Mateo Tecalco",
+    "Ejido de Tecámac",
+    "Primero de Marzo",
+    "Los Olivos",
+    "Los Olivos",
+    "Ampliación Ejido de Tecámac"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55749",
+  "colonias": [
+    "Montecarlo",
+    "5 de Mayo",
+    "Hueyotenco",
+    "Nueva Santa María",
+    "Villa del Real",
+    "Ampliación 5 de Mayo",
+    "La Nopalera",
+    "Electricistas",
+    "Sierra Hermosa",
+    "Texcaltitla",
+    "Ixotitla",
+    "Vista Hermosa",
+    "Del Catillo",
+    "Jardines de Tecámac"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55750",
+  "colonias": [
+    "El Tanque",
+    "Santa María Ajoloapan"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55752",
+  "colonias": [
+    "San Juan Pueblo Nuevo"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55754",
+  "colonias": [
+    "Santo Domingo Ajoloapan",
+    "Paseos de Tecámac",
+    "Loma de San Jerónimo (Ampliación Santo Domingo)"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55755",
+  "colonias": [
+    "Los Reyes Acozac",
+    "La Campiña",
+    "Buenavista",
+    "Guadalupe de Reyes Acozac",
+    "La Michapa",
+    "La Palma de Reyes",
+    "Progreso",
+    "El Calvario de Reyes Acozac",
+    "San Miguel"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55757",
+  "colonias": [
+    "San Lucas Xolox",
+    "Ejidal"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55758",
+  "colonias": [
+    "Ampliación la Palma (Zona Industrial)"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55760",
+  "colonias": [
+    "San Francisco Cuautliquixca",
+    "Santa María Ozumbilla",
+    "Norchuca",
+    "Mexicanos Unidos",
+    "Magisterial",
+    "Atlautenco",
+    "El Calvario de Ozumbilla",
+    "Portal Ojo de Agua"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55763",
+  "colonias": [
+    "Vitalia",
+    "Los Héroes Tecámac"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55764",
+  "colonias": [
+    "Margarito F. Ayala",
+    "Los Héroes Tecámac II",
+    "Los Héroes Ozumbilla",
+    "Nuevo Paraíso"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55765",
+  "colonias": [
+    "Los Héroes San Pablo",
+    "Nueva Tlalnepantla",
+    "Esmeralda",
+    "Lomas de Tecámac",
+    "La Cañada",
+    "Jesús Romero Flores",
+    "Granjas Valle de Guadalupe",
+    "México Independiente",
+    "21 de Agosto",
+    "10 de Junio",
+    "Soto y Gama"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55766",
+  "colonias": [
+    "Ampliación Ozumbilla"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55767",
+  "colonias": [
+    "Conjunto urbano Real Verona",
+    "Real Toscana",
+    "Punta Palermo",
+    "Bosques de los Héroes",
+    "Paseos del Bosque",
+    "Real Carrara",
+    "Real Alcalá",
+    "Alcázar",
+    "Quinta Versalles",
+    "Real Vizcaya",
+    "Loma Bonita",
+    "Santa Cruz",
+    "Los Arcos",
+    "Real del Sol",
+    "Real del Cid",
+    "Real Castell",
+    "Real Firenze",
+    "Valle San Pedro Urbi Villa del Campo"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55768",
+  "colonias": [
+    "Cuauhtémoc",
+    "Lomas de Ozumbilla",
+    "San Antonio (de San Francisco Cuautliquixca)",
+    "La Azteca",
+    "Vista Hermosa (De Ozumbilla)",
+    "Tezontla"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55770",
+  "colonias": [
+    "San Pedro (El Terremoto)",
+    "Rinconada San Pedro",
+    "Ojo de Agua",
+    "San Pedro Atzompa"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55773",
+  "colonias": [
+    "Hacienda Provenzal"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55776",
+  "colonias": [
+    "Lomas de San Pedro Atzompa"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+{
+  "cp": "55778",
+  "colonias": [
+    "Ampliación de la Concepción"
+  ],
+  "estado": "México",
+  "ciudad": "Tecámac"
+},
+  {
+    "cp": "55780",
+    "colonias": ["San Andrés Jaltenco","La Lagunilla","San Martín"],
+    "estado": "México",
+    "ciudad": "Jaltenco"
+  },
+  {
+    "cp": "55783",
+    "colonias": ["Alborada Jaltenco CTM XI","Pro Vivienda","Bahías de Jaltenco","Privadas del Sol"],
+    "estado": "México",
+    "ciudad": "Jaltenco"
+  },
+  {
+    "cp": "55785",
+    "colonias": ["San Juan Zacazontla","Las Chinampas","Valle Verde","Santa María Tonanitla","Villas de Santa María"],
+    "estado": "México",
+    "ciudad": "Tonanitla"
+  },
+    {
+    "cp": "55786",
+    "colonias": ["La Asunción"],
+    "estado": "México",
+    "ciudad": "Tonanitla"
+  },
+    {
+    "cp": "55787",
+    "colonias": ["Villas de Tonanitla"],
+    "estado": "México",
+    "ciudad": "Tonanitla"
+  },
+  {
+    "cp": "55790",
+    "colonias": ["Ejido de Santana","San Miguel Jaltocan","Central"],
+    "estado": "México",
+    "ciudad": "Nextlalpan"
+  },
+
+
+
+
+
+
+  {
+    "cp": "55800",
+    "colonias": ["Teotihuacan de Arista Centro"],
+    "estado": "México",
+    "ciudad": "Teotihuacán"
+  },
+
+
+
+
+
+
+  {
+    "cp": "55850",
+    "colonias": ["San Martín de las Pirámides Centro","San Martín"],
+    "estado": "México",
+    "ciudad": "San Martín de las Pirámides"
+  },
+
+
+
+
+
+
+
+
+  {
+    "cp": "55870",
+    "colonias": ["Acolman de Nezahualcóyotl Centro","Los Pinos","La Virgen"],
+    "estado": "México",
+    "ciudad": "Acolman"
+  },
+
+
+
+
+
+
+
+
+{
+  "cp": "55900",
+  "colonias": [
+    "Otumba de Gómez Farías",
+    "El Chabacano"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55913",
+  "colonias": [
+    "Xamimilolpa (Xolpa)",
+    "El Ranchito",
+    "Estado de México",
+    "INFONAVIT San Esteban",
+    "La Trinidad",
+    "La Estación",
+    "Adolfo López Mateos"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55914",
+  "colonias": [
+    "El Rosario",
+    "Magisterial",
+    "San Cosme",
+    "Puentes Cuates",
+    "San Ignacio",
+    "La Conchita"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55923",
+  "colonias": [
+    "Coyotepec",
+    "San Miguel Xolco"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55924",
+  "colonias": [
+    "Chacalco",
+    "San Juan Tocuila (Tocuila)",
+    "San Lorenzo",
+    "Poyoxco",
+    "Tlalmimilolpa",
+    "Tlahuico",
+    "Jacarandas",
+    "Tepa Grande (Rancho Guadalupe Tepa)",
+    "Centro de Readaptación Social Otumba"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55925",
+  "colonias": [
+    "San Francisco Tlaltica",
+    "Oxtotipac"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55926",
+  "colonias": [
+    "Cuautlatcingo",
+    "Rancho el Mayorazgo",
+    "Nueva Colonia de Axalco",
+    "San Miguel Axalco Chico",
+    "El Potrero"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55927",
+  "colonias": [
+    "Belém",
+    "Altica",
+    "La Zumbona",
+    "Tecalco",
+    "ZR"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55930",
+  "colonias": [
+    "San Martín Ahuatepec",
+    "Santa Brígida",
+    "Los Capulines",
+    "Liberacos Uno",
+    "Los Conquianes",
+    "La Providencia (Florencio Juárez)",
+    "Rancho la Puente",
+    "San Cosme"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55934",
+  "colonias": [
+    "Xochihuacán"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55935",
+  "colonias": [
+    "San Marcos (San Marcos Tlaxuchilco)"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55936",
+  "colonias": [
+    "Buenavista",
+    "Las Papas (Rancho de Don Jorge Olvera)",
+    "Rancho Colorado"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+{
+  "cp": "55937",
+  "colonias": [
+    "Santa Bárbara",
+    "Santa Gertrudis",
+    "San Telmo",
+    "Coamilpa",
+    "San José de las Presas (Cuautenco)",
+    "San José Coamilpa (Ejido de Otumba)",
+    "La Escondida"
+  ],
+  "estado": "México",
+  "ciudad": "Otumba"
+},
+  {
+    "cp": "55940",
+    "colonias": ["Axapusco","Tlamapa","San Bartolo Alto","San Martín","Cuauhtémoc","San Antonio"],
+    "estado": "México",
+    "ciudad": "Axapusco"
+  },
+
+
+
+
+
+
+  {
+    "cp": "55970",
+    "colonias": ["Hidalgo A","Hidalgo B","Morelos A","Morelos B","Vicente Guerrero"],
+    "estado": "México",
+    "ciudad": "Nopaltepec"
+  },
+
+
+
+   {
+    "cp": "55980",
+    "colonias": ["San Bartolomé Actopan","San Juan Teacalco","San Miguel","San Antonio","De la Cruz","De Dolores","San José"],
+    "estado": "México",
+    "ciudad": "Temascalapa"
+  },
+
+
+
+
+  {
+    "cp": "56000",
+    "colonias": ["Tezoyuca"],
+    "estado": "México",
+    "ciudad": "Tezoyuca"
+  },
+
+
+
+
+  {
+    "cp": "56030",
+    "colonias": ["San Andrés Chiautla Centro"],
+    "estado": "México",
+    "ciudad": "Chiautla"
+  },
+
+
+
+
+
+
+
+  {
+    "cp": "56050",
+    "colonias": ["Papalotla"],
+    "estado": "México",
+    "ciudad": "Papalotla"
+  },
+  {
+    "cp": "56053",
+    "colonias": ["Belém"],
+    "estado": "México",
+    "ciudad": "Papalotla"
+  },
+  {
+    "cp": "56054",
+    "colonias": ["Chimalpa"],
+    "estado": "México",
+    "ciudad": "Papalotla"
+  },
+  {
+    "cp": "56055",
+    "colonias": ["Coxotla"],
+    "estado": "México",
+    "ciudad": "Papalotla"
+  },
+  {
+    "cp": "56056",
+    "colonias": ["Mazatla"],
+    "estado": "México",
+    "ciudad": "Papalotla"
+  },
+   {
+    "cp": "56057",
+    "colonias": ["Ixayoc"],
+    "estado": "México",
+    "ciudad": "Papalotla"
+  },
+
+
+
+
+
+  {
+    "cp": "56070",
+    "colonias": ["Huerta Padilla","Concepción Jolalpan Centro","San Pablo Jolalpan","Tepetlaoxtoc de Hidalgo","Los Reyes Nopala","La Loma (La Loma San Isidro)","San Francisco Jolalpan","El Tepetloxto (Colonia Lomas de San Gabriel)"],
+    "estado": "México",
+    "ciudad": "Tepetlaoxtoc"
+  },
+   {
+    "cp": "56077",
+    "colonias": ["Santiago"],
+    "estado": "México",
+    "ciudad": "Tepetlaoxtoc"
+  },
+   {
+    "cp": "56078",
+    "colonias": ["Tulteca Teopan"],
+    "estado": "México",
+    "ciudad": "Tepetlaoxtoc"
+  },
+   {
+    "cp": "56080",
+    "colonias": ["La Venta (La Loma)","San Juan Totolapan","Santo Tomás Apipilhuasco (Santo Tomás)"],
+    "estado": "México",
+    "ciudad": "Tepetlaoxtoc"
+  },
+   {
+    "cp": "56085",
+    "colonias": ["San Bernardo Tlalmimilolpan"],
+    "estado": "México",
+    "ciudad": "Tepetlaoxtoc"
+  },
+   {
+    "cp": "56086",
+    "colonias": ["San Andrés de las Peras"],
+    "estado": "México",
+    "ciudad": "Tepetlaoxtoc"
+  },
+   {
+    "cp": "56087",
+    "colonias": ["San Pedro Chiautzingo","La Trinidad"],
+    "estado": "México",
+    "ciudad": "Tepetlaoxtoc"
+  },
+
+
+
+
+
+
+  {
+    "cp": "56100",
+    "colonias": ["Texcoco de Mora Centro"],
+    "estado": "México",
+    "ciudad": "Texcoco"
+  },
+
+
+
+
+
+  {
+    "cp": "56270",
+    "colonias": ["San Miguel","San Diego","Emiliano Zapata","San Pedro","Santa María"],
+    "estado": "México",
+    "ciudad": "Chiconcuac"
+  },
+    {
+    "cp": "56272",
+    "colonias": ["San Pablito Calmimilolco"],
+    "estado": "México",
+    "ciudad": "Chiconcuac"
+  },
+    {
+    "cp": "56273",
+    "colonias": ["Las Joyas","El Araujo"],
+    "estado": "México",
+    "ciudad": "Chiconcuac"
+  },
+    {
+    "cp": "56274",
+    "colonias": ["El Mamut"],
+    "estado": "México",
+    "ciudad": "Chiconcuac"
+  },
+    {
+    "cp": "56280",
+    "colonias": ["San Cristóbal"],
+    "estado": "México",
+    "ciudad": "Chiconcuac"
+  },
+  {
+    "cp": "56300",
+    "colonias": ["Ejidos de Cambray","San Francisco Acuexcomac","San Salvador Atenco","Santa Gertrudis"],
+    "estado": "México",
+    "ciudad": "Atenco"
+  },
+
+
+
+
+
+  {
+    "cp": "56330",
+    "colonias": ["Santa María Chimalhuacán"],
+    "estado": "México",
+    "ciudad": "Chimalhuacán"
+  },
+
+
+
+
+
+
+
+   {
+    "cp": "56370",
+    "colonias": ["San Vicente Chicoloapan de Juárez Centro","Santa Cecilia"],
+    "estado": "México",
+    "ciudad": "Chicoloapan"
+  },
+
+
+
+
+   {
+    "cp": "56400",
+    "colonias": ["Los Reyes Acaquilpan Centro","Jardín de Los Reyes","Ampliación Los Reyes"],
+    "estado": "México",
+    "ciudad": "La Paz"
+  },
+
+
+
+
+
+
+
+      {
+    "cp": "56530",
+    "colonias": [
+      "Capilla I",
+      "Capilla III",
+      "Ixtapaluca Centro",
+      "Jacarandas I y II",
+      "La Venta",
+      "Zoquiapan",
+      "La Era",
+      "Geovillas San Jacinto",
+      "Real del Campo"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56535",
+    "colonias": [
+      "El Jaral (El Capulín)",
+      "Jardín Industrial Ixtapaluca",
+      "Geovillas de Santa Bárbara",
+      "El Capulín",
+      "Hacienda las Palmas I y II",
+      "Las Palmas Tercera Etapa"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56536",
+    "colonias": [
+      "San José de la Palma",
+      "San Buenaventura"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56537",
+    "colonias": [
+      "Capilla II",
+      "Capilla IV",
+      "Acozac",
+      "Tezontle-Zoquiapan"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56538",
+    "colonias": [
+      "Santa Bárbara"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56539",
+    "colonias": [
+      "La Magdalena",
+      "La Huerta",
+      "El Caracol"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+    {
+    "cp": "56540",
+    "colonias": [
+      "Citlalmina",
+      "Rancho el Carmen"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56550",
+    "colonias": [
+      "Emiliano Zapata",
+      "Derramadero"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56553",
+    "colonias": [
+      "El Molino"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56555",
+    "colonias": [
+      "Residencial Ayotla"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56556",
+    "colonias": [
+      "José de la Mora",
+      "Tlapacoya"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56558",
+    "colonias": [
+      "Ampliación Emiliano Zapata"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56560",
+    "colonias": [
+      "Ayotla",
+      "El Calvario"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56563",
+    "colonias": [
+      "Loma Bonita"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56564",
+    "colonias": [
+      "El Mirador"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56565",
+    "colonias": [
+      "Lindavista",
+      "Santo Tomás",
+      "Magisterial",
+      "Lomas de Ayotla",
+      "Lavaderos",
+      "Ampliación Acozac",
+      "Ampliación Santo Tomás"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56566",
+    "colonias": [
+      "Geovillas de Ayotla",
+      "Izcalli",
+      "Rancho Guadalupe",
+      "Rigoberta Menchú",
+      "Luis Donaldo Colosio",
+      "La Retama",
+      "Ilhuicamina",
+      "Rancho San José",
+      "Caserío",
+      "Fermín Álvarez",
+      "Vergel de Guadalupe",
+      "Ampliación 6 de Junio",
+      "6 de Junio",
+      "Luis Córdoba Reyes"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+   {
+    "cp": "56567",
+    "colonias": [
+      "Melchor Ocampo",
+      "Cerro del Tejolote",
+      "Escalerillas",
+      "Ampliación Escalerillas",
+      "Morelos",
+      "Wenceslao Victoria Soto",
+      "Guadalupana",
+      "Ricardo Calva Reyes",
+      "Lomas de Ixtapaluca",
+      "Buena Vista",
+      "Contadero",
+      "Ampliación Morelos",
+      "Humberto Gutiérrez"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56568",
+    "colonias": [
+      "Unión Antorchista",
+      "El Capulín",
+      "Nueva Antorchista"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56569",
+    "colonias": [
+      "Rincón del Bosque",
+      "San Miguel",
+      "El Nopalito",
+      "1° de Mayo",
+      "El Mirto"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56570",
+    "colonias": [
+      "Arbolada",
+      "Geovillas Ixtapaluca 2000"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56576",
+    "colonias": [
+      "El Pino",
+      "Humberto Vidal Mendoza",
+      "Estado de México",
+      "San Juan Tlalpizahuac",
+      "Tlalpizahuac",
+      "San Antonio Tlalpizacuac",
+      "San Antonio",
+      "Tlacaelel",
+      "Aquiles Córdova Morán",
+      "18 de Agosto",
+      "Residencial Park",
+      "Rey Izcoatl"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56577",
+    "colonias": [
+      "Hornos Santa Bárbara",
+      "Alfredo del Mazo",
+      "Santa Cruz Tlalpizahuac",
+      "Valle Verde",
+      "Ampliación Santa Cruz Tlapacoya",
+      "Santa Cruz Tlapacoya"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56579",
+    "colonias": [
+      "20 de Noviembre"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56580",
+    "colonias": [
+      "Paseos de Coatepec",
+      "Coatepec",
+      "Rosa de Castilla",
+      "San Juan",
+      "Rancho Verde",
+      "Independencia",
+      "Lomas de Coatepec",
+      "Tetitla"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+    {
+    "cp": "56584",
+    "colonias": [
+      "Pueblo Nuevo (San Isidro Labrador)",
+      "La Mesa",
+      "La Pastoría"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56585",
+    "colonias": [
+      "Los Héroes",
+      "Jesús María",
+      "Plutarco Elias Calles",
+      "La Esperanza",
+      "El Rayo",
+      "Ampliación Plutarco Elias Calles",
+      "Rosa de San Francisco",
+      "Elsa Córdova Morán"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56586",
+    "colonias": [
+      "Tlayehuale",
+      "Geovillas de Jesús María"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56587",
+    "colonias": [
+      "Santa Ana",
+      "San Francisco Acuautla",
+      "Mirador de San Francisco",
+      "Ampliación San Francisco",
+      "Julio Chávez López (UPREZ)",
+      "San Francisco (Las Joyas)",
+      "Hornos de San Francisco",
+      "Francisco Santillán (Atzizintla Tres)"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56588",
+    "colonias": [
+      "Tejalpa",
+      "El Carmen",
+      "Juan Antonio Soberanes",
+      "Ampliación Tejalpa",
+      "Xalpa (Camino de los Alcanfores)",
+      "El Patronato del Maguey (Santa Rosa)",
+      "El Pozo del Venado",
+      "Linderos de Ixtapaluca (El Tablón)",
+      "Puente del Tablón",
+      "Puente el Mezquite"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56589",
+    "colonias": [
+      "Villas de Antorcha",
+      "Tecomatlán",
+      "Jorge Jiménez Cantú",
+      "Ciudad Cuatro Vientos",
+      "La Cañada",
+      "Hornos de Zoquiapan",
+      "Margarita Moran",
+      "San Jerónimo Cuatro Vientos",
+      "Huertas de Canutillo",
+      "Zoquiapan",
+      "Camino a Mina Milagro (El Potrero)",
+      "Camino Mina Rosita",
+      "Teponaxtle",
+      "Bezana Canutillo"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+    {
+    "cp": "56590",
+    "colonias": [
+      "Río Frío de Juárez",
+      "Llano Grande",
+      "El Guarda"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  },
+  {
+    "cp": "56599",
+    "colonias": [
+      "Manuel Ávila Camacho",
+      "El Campamento (Las Cocinas)",
+      "El Corazón",
+      "El Cuarenta",
+      "El Treinta y Nueve (Dos Jagüeyes)",
+      "El Treinta y Siete (Kilómetro 19)",
+      "Los Cedros",
+      "Loma Ancha",
+      "San Isidro (La Lobera)"
+    ],
+    "estado": "México",
+    "ciudad": "Ixtapaluca"
+  }, 
+  
+  {
+    "cp": "56600",
+    "colonias": ["Bosques de Chalco I", "Tlatel", "Santa Cruz", "Casco de San Juan", "Chalco de Díaz Covarrubias Centro", "La Bomba", "La Conchita", "San Antonio", "San Sebastián", "Los Cipreses", "Granjas Chalco", "Industrial Chalco", "Marco Antonio Sosa", "Los Volcanes", "Villas de Chalco", "Portal de Chalco", "San Francisco", "Paseos de Chalco", "Bosques de Chalco II", "Los Volcanes 2da. Sección", "Las Huertas", "Punta Chalco", "El Naranjo", "Gonzalo López Cid", "Margarita Córdoba Morán", "Rancho Amigo"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56604",
+    "colonias": ["Ejidal", "Tres Marías", "San Miguel Jacalones I", "San Miguel Jacalones II", "Nueva San Miguel"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56605",
+    "colonias": ["Nueva San Isidro", "Nueva San Antonio", "Agrarista", "Agrarista Sector Alcanfores", "El Paraíso", "Fraternidad Antorchista", "Clara Córdoba Morán", "Humberto Vidal Mendoza"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56606",
+    "colonias": ["Unión de Guadalupe"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56607",
+    "colonias": ["Covadonga", "Culturas de México", "Jardines de Chalco", "21 de Marzo"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56608",
+    "colonias": ["Emiliano Zapata", "San Cristóbal"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56609",
+    "colonias": ["Santa Cruz Amalinalco"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+    {
+    "cp": "56610",
+    "colonias": [
+      "Alfredo Baranda",
+      "Américas",
+      "Niños Héroes",
+      "San Miguel las Tablas"
+    ],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56613",
+    "colonias": ["San Miguel Xico"],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56614",
+    "colonias": [
+      "Poder Popular",
+      "Cerro del Marques",
+      "San Martín Xico La Laguna",
+      "Real de San Martín",
+      "Ex-hacienda Xico",
+      "Central de Abasto",
+      "Antorcha Valle de Chalco"
+    ],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56615",
+    "colonias": [
+      "Concepción",
+      "María Isabel",
+      "Santiago",
+      "El Agostadero"
+    ],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56616",
+    "colonias": ["Guadalupana", "Providencia"],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56617",
+    "colonias": [
+      "El Triunfo",
+      "Independencia",
+      "Jardín",
+      "San Isidro",
+      "Santa Cruz"
+    ],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56618",
+    "colonias": [
+      "Geovillas la Asunción",
+      "Avándaro",
+      "Darío Martínez II Sección",
+      "Emiliano Zapata",
+      "San Juan Tlalpizahuac",
+      "Carlos Salinas de Gortari",
+      "San Gregorio"
+    ],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56619",
+    "colonias": [
+      "La Punta",
+      "Alfredo del Mazo",
+      "Darío Martínez I Sección",
+      "Del Carmen",
+      "Ampliación Santa Catarina",
+      "Santa Catarina"
+    ],
+    "estado": "México",
+    "ciudad": "Valle de Chalco Solidaridad"
+  },
+  {
+    "cp": "56620",
+    "colonias": ["San José Axalco", "Los Arenales", "Capultitla", "Jazmín de las Flores", "Lomas de San Pablo", "San Pablo Atlazalpan", "Michoacana", "El Recodo de San José Axalco", "San José", "Independencia"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56623",
+    "colonias": ["Rancho San Miguel", "Rancho Nuevo", "Rancho Nuevo San Miguel", "Camino al Monte", "Santa Catarina Ayotzingo"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56624",
+    "colonias": ["Pedregal Tezompa", "San Juan Tezompa", "Caserío de Cortés", "Las Nieves"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56625",
+    "colonias": ["Residencial Iztac", "Iztac II", "Iztac III", "Independencia Chimalpa", "San Lorenzo Chimalpa", "San Martín Xico Nuevo", "San Mateo Huitzilzingo", "Guadalupe"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56640",
+    "colonias": ["San Gregorio Cuautzingo", "Los Álamos", "Santa Ana (Predio San Juan)"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56641",
+    "colonias": ["Benito Juárez", "La Candelaria Tlapala", "Hacienda Guadalupe", "Llano del Moral"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56642",
+    "colonias": ["San Lucas Amalinalco", "Los Hornos"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56643",
+    "colonias": ["Ejido San Marcos", "Caja de Agua", "San Marcos Huixtoco", "San Buenaventura 7a Sección", "La Chimenea"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56644",
+    "colonias": ["Los Héroes Chalco II", "Los Héroes Chalco III", "San Martín Cuautlalpan", "Villas de San Martín", "Los Héroes Chalco", "Pueblo Nuevo", "Hacienda San Juan"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56646",
+    "colonias": ["Guadalupe de los Tepetates", "Huixtomatitla (Tepalcates)", "La Longaniza", "Santa María Huexoculco"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+  {
+    "cp": "56647",
+    "colonias": ["San Mateo Tezoquipan Miraflores", "Hacienda del Moral"],
+    "estado": "México",
+    "ciudad": "Chalco"
+  },
+
+   {
+    "cp": "56650",
+    "colonias": ["Temamatla","Xalpa","Cuautitla","Tepetitla","Predio de los Albertocos","Guadalupana","La Estación (La Caseta)"],
+    "estado": "México",
+    "ciudad": "Temamatla"
+  },
+   {
+    "cp": "56653",
+    "colonias": ["Santiago Zula"],
+    "estado": "México",
+    "ciudad": "Temamatla"
+  },
+   {
+    "cp": "56654",
+    "colonias": ["El Tejocote (Colonia Jesús Estudillo L.)","El Tejocote","Ampliación Potrero"],
+    "estado": "México",
+    "ciudad": "Temamatla"
+  },
+   {
+    "cp": "56655",
+    "colonias": ["Los Reyes Acatlixhuayan"],
+    "estado": "México",
+    "ciudad": "Temamatla"
+  },
+   {
+    "cp": "56656",
+    "colonias": ["Tepancal","San Judas Tadeo"],
+    "estado": "México",
+    "ciudad": "Temamatla"
+  },
+  {
+    "cp": "56657",
+    "colonias": ["Tenexcaltitla","El Cabi"],
+    "estado": "México",
+    "ciudad": "Temamatla"
+  },
+  {
+    "cp": "56680",
+    "colonias": ["Techichilco","Oyotepec","20 de Noviembre","Tlapipinca","La Y (Atoyac)","La Vía"],
+    "estado": "México",
+    "ciudad": "Cocotitlán"
+  },
+   {
+    "cp": "56683",
+    "colonias": ["San Andrés Metla"],
+    "estado": "México",
+    "ciudad": "Cocotitlán"
+  },
+   {
+    "cp": "56684",
+    "colonias": ["Atoyac"],
+    "estado": "México",
+    "ciudad": "Cocotitlán"
+  },
+  {
+    "cp": "56700",
+    "colonias": ["Tlalmanalco de Velázquez"],
+    "estado": "México",
+    "ciudad": "Tlalmanalco"
+  },
+
+
+
+
+
+
+
+
+  {
+    "cp": "56760",
+    "colonias": ["La Capilla","La Soledad","Predio el Calvario"],
+    "estado": "México",
+    "ciudad": "Ayapango"
+  },
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "cp": "56780",
+    "colonias": ["San Juan Coxtocan","San Mateo Tepopula","Santiago Tepopula","La Palma Tenango","San Miguel","Amilco"],
+    "estado": "México",
+    "ciudad": "Tenango del Aire"
+  },
+
+
+
+
+
+
+
+  {
+    "cp": "56800",
+    "colonias": ["De San Bartolo"],
+    "estado": "México",
+    "ciudad": "Ozumba"
+  },
+
+
+
+
+
+
+
+
+    {
+    "cp": "56860",
+    "colonias": ["La Loma","La Garita","Juchi","Calayuco","Cuautzozongo"],
+    "estado": "México",
+    "ciudad": "Juchitepec"
+  },
+
+
+
+
+
+
+
+
+     {
+    "cp": "56880",
+    "colonias": ["Tepetlixpa"],
+    "estado": "México",
+    "ciudad": "Tepetlixpa"
+  },
+
+
+
+
+
+
+
+
+  {
+    "cp": "56900",
+    "colonias": ["Sector Sacromonte"],
+    "estado": "México",
+    "ciudad": "Amecameca"
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "cp": "56970",
+    "colonias": ["San Jacinto","Santo Domingo","Santiago","San Bartolo","San Martín","San Francisco","San Lorenzo","San Pedro","Natividad"],
+    "estado": "México",
+    "ciudad": "Atlautla"
+  },
+    {
+    "cp": "56975",
+    "colonias": [
+      "Quinta Loma Verde (Paraje Tepichilco)",
+      "San Juan",
+      "Ixtotempatl",
+      "San Felipe",
+      "San Martín",
+      "Asunción"
+    ],
+    "estado": "México",
+    "ciudad": "Atlautla"
+  },
+  {
+    "cp": "56976",
+    "colonias": [
+      "San Andrés Tlalamac"
+    ],
+    "estado": "México",
+    "ciudad": "Atlautla"
+  },
+  {
+    "cp": "56980",
+    "colonias": [
+      "San Juan Tehuixtitlán Centro"
+    ],
+    "estado": "México",
+    "ciudad": "Atlautla"
+  },
+  {
+    "cp": "56982",
+    "colonias": [
+      "Las Delicias"
+    ],
+    "estado": "México",
+    "ciudad": "Atlautla"
+  },
+  {
+    "cp": "56983",
+    "colonias": [
+      "Nexapa",
+      "Popo Park",
+      "Del Cornejal"
+    ],
+    "estado": "México",
+    "ciudad": "Atlautla"
+  },
+  {
+    "cp": "56984",
+    "colonias": [
+      "Guadalupe",
+      "El Arenal",
+      "El mirador"
+    ],
+    "estado": "México",
+    "ciudad": "Atlautla"
+  },
+  {
+    "cp": "56990",
+    "colonias": ["Nexapa","San José","San Martín","Xolaltenco","Santa Catarina","Santa Gertrudis"],
+    "estado": "México",
+    "ciudad": "Ecatzingo"
+  },
+   {
+    "cp": "56993",
+    "colonias": ["San Marcos Tecomaxusco","Tepicila","Oxpanco"],
+    "estado": "México",
+    "ciudad": "Ecatzingo"
+  },
+   {
+    "cp": "56996",
+    "colonias": ["San Juan Tlacotompa (Tlacotompa)","Huexotitla","Ixtactepectípac (Rancho Ixtactepectípac)"],
+    "estado": "México",
+    "ciudad": "Ecatzingo"
+  },
+  {
+    "cp": "57000",
+    "colonias": ["Benito Juárez (La Aurora)"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57100",
+    "colonias": ["Valle de Aragón"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57103",
+    "colonias": ["Polígono del Bordo de Xochiaca"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57120",
+    "colonias": ["Campestre Guadalupana"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57129",
+    "colonias": ["Ampliación Campestre Guadalupana"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57130",
+    "colonias": [
+      "Las Antenas o Claustro de Sor Juana Inés de la C.",
+      "Impulsora Popular Avícola"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57138",
+    "colonias": [
+      "Emiliano Zapata",
+      "Canal de Sales",
+      "Bosques de Viena"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57139",
+    "colonias": ["Plazas de Aragón"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57140",
+    "colonias": ["Jardines de Guadalupe"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57150",
+    "colonias": ["Vergel de Guadalupe"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57158",
+    "colonias": ["Joyas de Aragón"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57170",
+    "colonias": ["Bosques de Aragón"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57171",
+    "colonias": ["Escuela Nacional de Estudios Profesionales Aragón"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57178",
+    "colonias": ["Las Armas"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57179",
+    "colonias": ["Prados de Aragón"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+    {
+    "cp": "57180",
+    "colonias": ["Ciudad Lago"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57185",
+    "colonias": [
+      "Ampliación Ciudad Lago",
+      "Ampliación Ciudad Lago El Triangulo",
+      "Cuchilla del Tesoro"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57188",
+    "colonias": ["Ampliación Ciudad Lago Asa (Antonio Alzate)"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57189",
+    "colonias": ["Ampliación Ciudad Lago Comunicaciones"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57200",
+    "colonias": ["El Sol"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57205",
+    "colonias": ["Ciudad Jardín"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57210",
+    "colonias": ["Estado de México"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57300",
+    "colonias": [
+      "Tamaulipas",
+      "Tamaulipas Sección Virgencitas"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57310",
+    "colonias": [
+      "Tamaulipas Sección Las Flores",
+      "Tamaulipas Sección Palmar"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57400",
+    "colonias": [
+      "El Barco Primera Sección",
+      "El Barco Segunda Sección",
+      "El Barco Tercera Sección"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57410",
+    "colonias": ["Maravillas"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57420",
+    "colonias": [
+      "Nezahualcóyotl Primera Sección",
+      "Nezahualcóyotl Segunda Sección",
+      "Nezahualcóyotl Tercera Sección"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57430",
+    "colonias": ["Porvenir"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+    {
+    "cp": "57440",
+    "colonias": ["Las Palmas", "Martínez del Llano", "Xochitenco"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57450",
+    "colonias": ["Volcanes"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57460",
+    "colonias": ["Juárez Pantitlán"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57500",
+    "colonias": [
+      "Agua Azul Grupo C Súper 4 y Súper 23",
+      "Agua Azul Grupo A Super 4",
+      "Central",
+      "Agua Azul Grupo B Super 4",
+      "Agua Azul Grupo B Super 23"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57510",
+    "colonias": ["Agua Azul Sección Pirules"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57520",
+    "colonias": ["Porfirio Díaz"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57530",
+    "colonias": ["Modelo"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57600",
+    "colonias": ["Ampliación Romero Sección Las Fuentes"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57610",
+    "colonias": ["Pavón Sección Silvia"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57620",
+    "colonias": ["México Primera Sección", "México Segunda Sección"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57630",
+    "colonias": ["Romero"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57700",
+    "colonias": [
+      "Evolución Súper 24",
+      "Evolución Súper 22",
+      "Evolución Súper 43",
+      "Evolución"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+    {
+    "cp": "57708",
+    "colonias": ["Evolución Poniente"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57709",
+    "colonias": ["Ampliación Evolución"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57710",
+    "colonias": ["General José Vicente Villada"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57718",
+    "colonias": [
+      "Ampliación General José Vicente Villada Oriente",
+      "Ampliación General José Vicente Villada Súper 44"
+    ],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57719",
+    "colonias": ["Ampliación General José Vicente Villada Poniente"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57720",
+    "colonias": ["Atlacomulco"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57730",
+    "colonias": ["Metropolitana Primera Sección"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57739",
+    "colonias": ["San Lorenzo"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57740",
+    "colonias": ["Metropolitana Segunda Sección"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57750",
+    "colonias": ["Metropolitana Tercera Sección"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57760",
+    "colonias": ["Ampliación General José Vicente Villada Súper 43"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57800",
+    "colonias": ["Esperanza"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57809",
+    "colonias": ["Rey Nezahualcóyotl"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57810",
+    "colonias": ["Izcalli Nezahualcóyotl"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57819",
+    "colonias": ["Parque Industrial Nezahualcóyotl"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57820",
+    "colonias": ["La Perla"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57830",
+    "colonias": ["Ampliación La Perla Reforma"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57840",
+    "colonias": ["Reforma"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57849",
+    "colonias": ["Reforma A Sección 1"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57900",
+    "colonias": ["Las Águilas"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57910",
+    "colonias": ["Constitución de 1857"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57920",
+    "colonias": ["Santa Martha"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57930",
+    "colonias": ["Manantiales"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57940",
+    "colonias": ["Loma Bonita"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+  {
+    "cp": "57950",
+    "colonias": ["Ampliación Las Águilas"],
+    "estado": "México",
+    "ciudad": "Nezahualcóyotl"
+  },
+    {
+    "cp": "50500",
+    "colonias": ["San Andrés Timilpan"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50503",
+    "colonias": ["N Zititi", "N Teje", "M Bodo"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50504",
+    "colonias": ["N Gunzda", "Aguacate"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50505",
+    "colonias": ["N Zola", "Campo Santo", "Segunda Manzana"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50507",
+    "colonias": [
+      "Primera Manzana de Barrio Iturbide",
+      "Segunda Manzana de Barrio Iturbide",
+      "De Ocampo"
+    ],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50508",
+    "colonias": [
+      "Primera Manzana de San Nicolás(Puerto San Nicolás)",
+      "Segunda Manzana de San Nicolás"
+    ],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50509",
+    "colonias": [
+      "Primera Manzana de Zaragoza",
+      "Segunda Manzana de Zaragoza",
+      "Tercera Manzana de Zaragoza"
+    ],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50510",
+    "colonias": ["Huapango"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50520",
+    "colonias": [
+      "Primera Manzana Barrio de Hidalgo",
+      "Iturbide (La Campesina)"
+    ],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50523",
+    "colonias": ["Lomas de Emiliano Zapata (Las Lomas)"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50524",
+    "colonias": ["Segunda Manzana de Barrio Morelos"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50525",
+    "colonias": [
+      "Tercera Manzana de Barrio Morelos",
+      "Primera Manzana de Barrio Morelos",
+      "Agua Bendita",
+      "Segunda Manzana de Barrio Hidalgo",
+      "Tercera Manzana de Barrio Iturbide Ixcaja"
+    ],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50526",
+    "colonias": [
+      "Segunda Manzana del Pueblo de Rincón de Bucio",
+      "Primera Manzana del Pueblo de Rincón de Bucio",
+      "Primera Manzana de Cañada de Lobos",
+      "Segunda Manzana de Cañada de Lobos"
+    ],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50527",
+    "colonias": ["Tercera Manzana del Pueblo de Rincón de Bucio"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50528",
+    "colonias": ["El Palmito (San José el Palmito)"],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  },
+  {
+    "cp": "50540",
+    "colonias": [
+      "Quinto Barrio Santiaguito Maxda (Enzdá)",
+      "San Antonio Yondejé",
+      "Santiaguito Maxda"
+    ],
+    "estado": "México",
+    "ciudad": "Timilpan"
+  }
+
+  ]
+  

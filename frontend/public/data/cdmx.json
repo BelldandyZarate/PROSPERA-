@@ -1,0 +1,1292 @@
+[
+  {
+    "cp": "04000",
+    "colonias": ["Villa Coyoacán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04010",
+    "colonias": ["Santa Catarina"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04020",
+    "colonias": ["La Concepción"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04030",
+    "colonias": ["San Lucas"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04040",
+    "colonias": ["Parque San Andrés"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04100",
+    "colonias": ["Del Carmen"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04120",
+    "colonias": ["San Diego Churubusco", "San Mateo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04200",
+    "colonias": ["Campestre Churubusco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04210",
+    "colonias": ["Churubusco Country Club"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04230",
+    "colonias": ["Prado Churubusco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04240",
+    "colonias": ["Hermosillo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04250",
+    "colonias": ["Paseos de Taxqueña"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  }, 
+  {
+    "cp": "04260",
+    "colonias": [
+      "San Francisco Culhuacán Barrio de San Francisco",
+      "San Francisco Culhuacán Barrio de La Magdalena",
+      "San Francisco Culhuacán Barrio de Santa Ana",
+      "San Francisco Culhuacán Barrio de San Juan"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04300",
+    "colonias": ["Ajusco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04310",
+    "colonias": ["Romero de Terreros"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04318",
+    "colonias": ["Oxtopulco Universidad"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04320",
+    "colonias": [
+      "Cuadrante de San Francisco",
+      "Pedregal de San Francisco"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04330",
+    "colonias": [
+      "El Rosedal",
+      "Los Reyes",
+      "Del Niño Jesús"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04340",
+    "colonias": ["Copilco El Bajo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04360",
+    "colonias": [
+      "Copilco El Alto",
+      "Copilco Universidad"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04369",
+    "colonias": ["Pedregal de Santo Domingo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04370",
+    "colonias": [
+      "Atlántida",
+      "Ciudad Jardín"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04380",
+    "colonias": [
+      "El Rosario",
+      "La Candelaria"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+   {
+    "cp": "04390",
+    "colonias": ["Huayamilpas", "Nueva Díaz Ordaz"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04400",
+    "colonias": ["Educación"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04410",
+    "colonias": ["Petrolera Taxqueña"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04420",
+    "colonias": ["Ex-Ejido de San Francisco Culhuacán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04440",
+    "colonias": [
+      "Culhuacán CTM Sección V",
+      "Culhuacán CTM Sección II",
+      "Culhuacán CTM Sección I"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04450",
+    "colonias": ["El Centinela"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04460",
+    "colonias": ["Avante"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04470",
+    "colonias": [
+      "Presidentes Ejidales 1a Sección",
+      "Presidentes Ejidales 2a Sección"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04480",
+    "colonias": [
+      "Culhuacán CTM Sección VI",
+      "Culhuacán CTM Sección III",
+      "Culhuacán CTM CROC",
+      "Culhuacán CTM Sección X-A"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04489",
+    "colonias": ["Culhuacán CTM Sección VII"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04490",
+    "colonias": [
+      "Culhuacán CTM Sección Piloto",
+      "Culhuacán CTM Canal Nacional"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04500",
+    "colonias": ["Jardines del Pedregal de San Ángel"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04510",
+    "colonias": ["Universidad Nacional Autónoma de México"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+   {
+    "cp": "04519",
+    "colonias": ["La Otra Banda"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04530",
+    "colonias": ["Insurgentes Cuicuilco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04600",
+    "colonias": ["Pedregal de Santa Úrsula"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04610",
+    "colonias": ["Xotepingo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04620",
+    "colonias": ["San Pablo Tepetlapa"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04630",
+    "colonias": ["Adolfo Ruiz Cortínes"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04640",
+    "colonias": ["El Reloj"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04650",
+    "colonias": ["Santa Úrsula Coapa"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04660",
+    "colonias": ["Joyas del Pedregal"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04700",
+    "colonias": ["Pedregal de Carrasco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04710",
+    "colonias": ["Olímpica"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04730",
+    "colonias": ["Cantil del Pedregal", "Bosques de Tetlameya"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04739",
+    "colonias": ["El Caracol"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04800",
+    "colonias": ["Alianza Popular Revolucionaria", "Los Cedros"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04810",
+    "colonias": ["Prados de Coyoacán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04815",
+    "colonias": ["Emiliano Zapata"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04830",
+    "colonias": ["Los Cipreses"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04840",
+    "colonias": ["Ex-Ejido de San Pablo Tepetlapa"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04870",
+    "colonias": ["Espartaco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+    {
+    "cp": "04890",
+    "colonias": ["Jardines de Coyoacán", "Los Olivos"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04899",
+    "colonias": ["El Parque de Coyoacán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04909",
+    "colonias": [
+      "Culhuacán CTM Sección VIII",
+      "Culhuacán CTM Sección IX-A",
+      "Culhuacán CTM Sección IX-B"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04910",
+    "colonias": ["Carmen Serdán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04918",
+    "colonias": ["Cafetales"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04919",
+    "colonias": ["Emiliano Zapata Fraccionamiento Popular"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04920",
+    "colonias": ["Los Girasoles"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04929",
+    "colonias": ["Las Campanas"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04930",
+    "colonias": ["Santa Cecilia"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04938",
+    "colonias": ["Campestre Coyoacán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04939",
+    "colonias": ["Culhuacán CTM Sección X"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04940",
+    "colonias": ["Los Sauces"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04950",
+    "colonias": ["El Mirador"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04960",
+    "colonias": ["Villa Quietud"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04970",
+    "colonias": ["Haciendas de Coyoacán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+  {
+    "cp": "04980",
+    "colonias": [
+      "Ex-Ejido de Santa Úrsula Coapa",
+      "Ex-Hacienda Coapa",
+      "Viejo Ejido de Santa Úrsula Coapa"
+    ],
+    "estado": "Ciudad de México",
+    "ciudad": "Coyoacán"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+    "cp": "07000",
+    "colonias": ["Aragón la Villa"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07010",
+    "colonias": ["Rosas del Tepeyac", "Santa Isabel Tola", "Tepetates"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07020",
+    "colonias": ["Tepeyac Insurgentes"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07040",
+    "colonias": ["Santiago Atzacoalco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07050",
+    "colonias": ["Villa Gustavo A. Madero"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07058",
+    "colonias": ["15 de Agosto"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07060",
+    "colonias": ["Estanzuela"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07069",
+    "colonias": ["Triunfo de La República"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07070",
+    "colonias": ["La Cruz", "Dinamita", "Martín Carrera"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07080",
+    "colonias": ["Gabriel Hernández"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07089",
+    "colonias": ["Ampliación Gabriel Hernández"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07090",
+    "colonias": ["C.T.M. Atzacoalco", "C.T.M. El Risco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07100",
+    "colonias": ["Cuautepec Barrio Alto", "San Miguel"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07109",
+    "colonias": ["San Antonio"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07110",
+    "colonias": ["Lomas de Cuautepec"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07119",
+    "colonias": ["Malacates", "Ampliación Malacates"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07130",
+    "colonias": ["Compositores Mexicanos", "El Tepetatal"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07140",
+    "colonias": ["Arboledas", "Ampliación Arboledas", "Forestal", "Forestal I"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07144",
+    "colonias": ["Forestal II", "La Lengüeta"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07149",
+    "colonias": ["Parque Metropolitano"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07150",
+    "colonias": ["Juventino Rosas", "La Casilda"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07160",
+    "colonias": ["Loma La Palma"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07164",
+    "colonias": ["Luis Donaldo Colosio", "Tlacaélel", "Graciano Sánchez", "Prados de Cuautepec"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07170",
+    "colonias": ["Palmatitla"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07180",
+    "colonias": ["Ampliación Cocoyotes", "Cocoyotes", "General Felipe Berriozabal"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07183",
+    "colonias": ["6 de Junio"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07187",
+    "colonias": ["Vista Hermosa"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07188",
+    "colonias": ["Tlalpexco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07189",
+    "colonias": ["Ahuehuetes"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07190",
+    "colonias": ["Valle de Madero"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07199",
+    "colonias": ["Del Carmen"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07200",
+    "colonias": ["Cuautepec de Madero"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07207",
+    "colonias": ["Del Bosque"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07209",
+    "colonias": ["Guadalupe Victoria Cuautepec"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07210",
+    "colonias": ["Chalma de Guadalupe"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07214",
+    "colonias": ["Ampliación Chalma de Guadalupe"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07220",
+    "colonias": ["Castillo Chico", "Castillo Grande"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07224",
+    "colonias": ["Ampliación Castillo Grande"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07230",
+    "colonias": ["Zona Escolar"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07239",
+    "colonias": ["Zona Escolar Oriente"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07240",
+    "colonias": ["El Arbolillo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07250",
+    "colonias": ["Benito Juárez"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07259",
+    "colonias": ["Ampliación Benito Juárez"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07268",
+    "colonias": ["Solidaridad Nacional"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07270",
+    "colonias": ["Residencial Acueducto de Guadalupe"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07279",
+    "colonias": ["Acueducto de Guadalupe"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07280",
+    "colonias": ["Jorge Negrete"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07290",
+    "colonias": ["La Pastora"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07300",
+    "colonias": ["Lindavista Norte", "Lindavista Sur"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07310",
+    "colonias": ["Candelaria Ticomán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07320",
+    "colonias": ["La Purísima Ticomán", "Residencial la Escalera"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07330",
+    "colonias": ["Santa María Ticomán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07340",
+    "colonias": ["La Laguna Ticomán", "San José Ticomán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07350",
+    "colonias": ["Guadalupe Ticomán", "San Juan y Guadalupe Ticomán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07359",
+    "colonias": ["San Rafael Ticomán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07360",
+    "colonias": ["San Pedro Zacatenco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07369",
+    "colonias": ["Residencial Zacatenco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07370",
+    "colonias": ["Capultitlan"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07380",
+    "colonias": ["Maximino Ávila Camacho", "Tlacamaca"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07400",
+    "colonias": ["Salvador Díaz Mirón"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07410",
+    "colonias": ["Juan González Romero", "Villa Hermosa"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07420",
+    "colonias": ["El Coyol", "Nueva Atzacoalco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07430",
+    "colonias": ["Del Obrero"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07440",
+    "colonias": ["Vasco de Quiroga"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07450",
+    "colonias": ["DM Nacional"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07455",
+    "colonias": ["Ferrocarrilera"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07456",
+    "colonias": ["LI Legislatura"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07460",
+    "colonias": ["Granjas Modernas"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07469",
+    "colonias": ["Constitución de la República"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07470",
+    "colonias": ["Ampliación San Juan de Aragón"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07480",
+    "colonias": ["San Pedro El Chico"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07500",
+    "colonias": ["La Pradera"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07509",
+    "colonias": ["Pradera II Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07510",
+    "colonias": ["San Felipe de Jesús"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07520",
+    "colonias": ["25 de Julio"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07530",
+    "colonias": ["Campestre Aragón"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07540",
+    "colonias": ["La Esmeralda"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07550",
+    "colonias": ["Providencia"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07560",
+    "colonias": ["Ampliación Providencia"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+    {
+    "cp": "07570",
+    "colonias": ["Villa de Aragón"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07580",
+    "colonias": ["Ampliación Casas Alemán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07600",
+    "colonias": ["Progreso Nacional"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07620",
+    "colonias": ["Santa Rosa"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07630",
+    "colonias": ["San José de la Escalera"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07640",
+    "colonias": ["Santiago Atepetlac"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07650",
+    "colonias": ["Ampliación Progreso Nacional"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07670",
+    "colonias": ["Guadalupe Proletaria"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07680",
+    "colonias": ["Ampliación Guadalupe Proletaria"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07700",
+    "colonias": ["Nueva Industrial Vallejo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07707",
+    "colonias": ["Siete Maravillas"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07708",
+    "colonias": ["Torres Lindavista"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07720",
+    "colonias": ["Lindavista Vallejo I Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07730",
+    "colonias": ["Churubusco Tepeyac", "Montevideo", "San Bartolo Atepehuacan"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07739",
+    "colonias": ["Planetario Lindavista"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07740",
+    "colonias": ["Valle del Tepeyac"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07750",
+    "colonias": ["Nueva Vallejo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07754",
+    "colonias": ["Lindavista Vallejo III Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07755",
+    "colonias": ["Lindavista Vallejo II Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07760",
+    "colonias": ["Magdalena de las Salinas"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07770",
+    "colonias": ["Panamericana", "Ampliación Panamericana"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07780",
+    "colonias": ["Defensores de La República", "Héroe de Nacozari"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07790",
+    "colonias": ["Guadalupe Victoria", "Vallejo Poniente"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07800",
+    "colonias": ["Industrial"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07810",
+    "colonias": ["Estrella"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07820",
+    "colonias": ["Aragón Inguarán", "Tres Estrellas"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07830",
+    "colonias": ["Gertrudis Sánchez 1a Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07838",
+    "colonias": ["Gertrudis Sánchez 3a Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07839",
+    "colonias": ["Gertrudis Sánchez 2a Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07840",
+    "colonias": ["Guadalupe Tepeyac", "7 de Noviembre"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07850",
+    "colonias": ["Bondojito", "Faja de Oro"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07858",
+    "colonias": ["Ampliación Emiliano Zapata"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07859",
+    "colonias": ["Ampliación Mártires de Río Blanco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07860",
+    "colonias": ["La Joyita", "Tablas de San Agustín"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07869",
+    "colonias": ["Belisario Domínguez"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07870",
+    "colonias": ["Guadalupe Insurgentes", "Vallejo"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07880",
+    "colonias": ["Mártires de Río Blanco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07889",
+    "colonias": ["Emiliano Zapata"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07890",
+    "colonias": ["La Joya", "Nueva Tenochtitlán", "Cuchilla La Joya"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+    {
+    "cp": "07899",
+    "colonias": ["La Malinche"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07900",
+    "colonias": ["Cuchilla del Tesoro"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07910",
+    "colonias": ["San Juan de Aragón VII Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07918",
+    "colonias": ["San Juan de Aragón VI Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07919",
+    "colonias": ["Ex Ejido San Juan de Aragón Sector 32"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07920",
+    "colonias": ["El Olivo", "San Juan de Aragón"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07930",
+    "colonias": ["Indeco"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07939",
+    "colonias": ["Héroes de Chapultepec"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07940",
+    "colonias": ["Ex Ejido San Juan de Aragón Sector 33"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07950",
+    "colonias": ["San Juan de Aragón"],
+    "tipo": "Pueblo",
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07960",
+    "colonias": ["Héroes de Cerro Prieto", "Ex Escuela de Tiro", "Fernando Casas Alemán"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07969",
+    "colonias": ["San Juan de Aragón I Sección", "San Juan de Aragón II Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07970",
+    "colonias": ["San Juan de Aragón III Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07979",
+    "colonias": ["San Juan de Aragón IV Sección", "San Juan de Aragón V Sección"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07980",
+    "colonias": ["Narciso Bassols"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  },
+  {
+    "cp": "07990",
+    "colonias": ["C.T.M. Aragón"],
+    "estado": "Ciudad de México",
+    "ciudad": "Gustavo A. Madero"
+  }
+
+
+  ]
+  

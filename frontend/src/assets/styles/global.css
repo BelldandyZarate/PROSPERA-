@@ -1,0 +1,188 @@
+:root {
+  --white: #ffffff;
+  --maroon: #800000;
+  --gold: #D4AF37;
+  --dark-maroon: #5a0000;
+  --light-gold: #f0e6c2;
+}
+
+/* Sobreescritura de Bootstrap para móviles */
+@media (max-width: 767.98px) {
+  .display-4 {
+    font-size: 2.5rem;
+  }
+  
+  .lead {
+    font-size: 1rem;
+  }
+}
+
+/* Estilos personalizados */
+.hero-section {
+  background: linear-gradient(135deg, rgba(128, 0, 0, 0.8) 0%, rgba(212, 175, 55, 0.6) 100%);
+  position: relative;
+  overflow: hidden;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 767.98px) {
+  .hero-section {
+    min-height: 60vh;
+    text-align: center;
+  }
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+.section-title {
+  position: relative;
+  padding-bottom: 15px;
+  margin-bottom: 2rem;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80px;
+  height: 4px;
+  background-color: var(--gold);
+}
+
+.program-card {
+  transition: all 0.3s ease;
+  height: 100%;
+  border-top: 5px solid var(--maroon);
+}
+
+.program-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.program-icon {
+  width: 80px;
+  height: 80px;
+  background-color: var(--light-gold);
+  color: var(--maroon);
+}
+
+@media (max-width: 575.98px) {
+  .program-icon {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+.news-card {
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.news-img {
+  height: 200px;
+  object-fit: cover;
+}
+
+@media (max-width: 767.98px) {
+  .news-img {
+    height: 150px;
+  }
+}
+
+.news-date {
+  background-color: var(--gold);
+  color: var(--maroon);
+}
+
+/* Navbar mobile */
+.navbar-toggler {
+  border-color: var(--maroon);
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28128, 0, 0, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* Botones especiales */
+.btn-gold {
+  background-color: var(--gold);
+  color: var(--maroon);
+  font-weight: 600;
+}
+
+.btn-gold:hover {
+  background-color: #c9a227;
+  color: var(--maroon);
+}
+
+.btn-outline-gold {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+.btn-outline-gold:hover {
+  background-color: var(--gold);
+  color: var(--maroon);
+}
+
+
+
+/* Estilos específicos para las páginas Nosotros y Programas */
+.hero-section-about {
+  background: linear-gradient(135deg, rgba(128, 0, 0, 0.8) 0%, rgba(212, 175, 55, 0.6) 100%), 
+              url('https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+  background-size: cover;
+  background-position: center;
+}
+
+.hero-section-programs {
+  background: linear-gradient(135deg, rgba(128, 0, 0, 0.8) 0%, rgba(212, 175, 55, 0.6) 100%), 
+              url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Ajustes para móviles */
+@media (max-width: 767.98px) {
+  .team-card img {
+    width: 120px !important;
+    height: 120px !important;
+  }
+  
+  .featured-program {
+    margin-bottom: 1.5rem;
+  }
+  
+  .testimonial-card {
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* Animaciones */
+.program-card, .featured-program, .testimonial-card {
+  transition: all 0.3s ease;
+}
+
+.program-card:hover, .featured-program:hover, .testimonial-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
